@@ -57,17 +57,17 @@
                             <h2>His character</h2>
                             <p>Muslims have no drawings or pictures for prophet Muhammad or the prophets before him. However, unlike the founders of the great faith traditions prior to his time, the Prophet Muhammad is much more a recognizable historical figure as his companions and family members described him very well and recorded many stories from his life for posterity.</p> <a href="character.php">Read More +</a> </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay03" id="biography"> <a href="javascript:void(0)"><span class="menu__item-name">Biography</span></a>
+                    <li class="_nav-item animate showFromLeft delay03" id="biography"> <a href="biography.php"><span class="menu__item-name">Biography</span></a>
                         <div class="inner-menu biography">
                             <h2>Biography</h2>
-                            <p>His name is Muhammad son of Abdullah son of Abdul-Muttalib (ancestry reaches back to the Prophet Ishmael son of Prophet Abraham).</p> <a href="#">Read More +</a> </div>
+                            <p>His name is Muhammad son of Abdullah son of Abdul-Muttalib (ancestry reaches back to the Prophet Ishmael son of Prophet Abraham).</p> <a href="biography.php">Read More +</a> </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay04" id="prophecy"> <a href="javascript:void(0)"><span class="menu__item-name">Prophecy</span></a>
+                    <li class="_nav-item animate showFromLeft delay04" id="prophecy"> <a href="prophecy.php"><span class="menu__item-name">Prophecy</span></a>
                         <div class="inner-menu prophecy">
                             <h2>Prophecy</h2>
                             <ul class="nav">
-                                <li><a href=""><span>Muhammad and Divine revelation</span></a></li>
-                                <li><a href=""><span>The Message of Islam</span></a></li>
+                                <li><a href="prophecy.php#divines"><span>Muhammad and Divine revelation</span></a></li>
+                                <li><a href="prophecy.php#message"><span>The Message of Islam</span></a></li>
                                 <li><a href=""><span>Islam in brief</span></a></li>
                                 <li><a href=""><span>One God, One Message</span></a></li>
                                 <li><a href=""><span>How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span></a></li>

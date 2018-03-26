@@ -25,36 +25,37 @@
     <!-- BEGIN OF Quick nav icons at left -->
     <nav class="quick-link count-6 nav-left">
         <ul id="qmenu">
-            <li data-menuanchor="home">
-                <a href="#home" class=""><i class="fas fa-cloud"></i>
+            <li>
+                <a data-scroll="divines" href="#" class=""><i class="fas fa-cloud"></i>
                 </a>
-                <span class="titles">Home page</span>
+                <span class="titles">Muhammad and Divine revelation</span>
             </li>
-            <li data-menuanchor="Task">
-                <a href="#when" class=""><i class="fa fa-facebook"></i>
+            <li>
+                <a href="#" data-scroll="message" class=""><i class="fas fa-envelope"></i>
+
                 </a>
-                <span class="titles">Task</span>
+                <span class="titles">The Message of Islam</span>
             </li>
             <li data-menuanchor="register">
-                <a href="#register"><i class="icon ion ion-compose"></i>
+                <a href="#register"><i class="fas fa-moon"></i>
                 </a>
-                <span class="titles">Join us</span>
+                <span class="titles">Islam in brief</span>
             </li>
             <li data-menuanchor="about-us">
-                <a href="#about-us"><i class="icon ion ion-android-information"></i>
+                <a href="#about-us"><i class="fas fa-envelope-square"></i>
                 </a>
-                <span class="titles">About Us</span>
+                <span class="titles">One God, One Message</span>
             </li>
             <li data-menuanchor="contact">
-                <a href="#contact"><i class="icon ion ion-android-call"></i>
+                <a href="#contact"><i class="fas fa-code-branch"></i>
                 </a>
-                <span class="titles">Contact</span>
+                <span class="titles">How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span>
             </li>
             <li data-menuanchor="contact">
-                <a href="#contact/message"><i class="icon ion ion-email"></i>
+                <a href="#contact/message"><i class="fas fa-globe"></i>
                 </a>
 
-                <span class="titles">Write to us</span>
+                <span class="titles">The universality of Islam (the Message)</span>
             </li>
         </ul>
     </nav>
@@ -70,7 +71,7 @@
                             <ul class="list-inline">
                                 <li><a href="index.php">Home</a></li>
                                 <li><i class="fa fa-angle-right"></i></li>
-                                <li><p>Muhammad's Character</p></li>
+                                <li><p>Muhammad & Prophecy</p></li>
                             </ul>
                         </div>
                         <div class="col-sm-6 text-right">
@@ -83,225 +84,473 @@
         </div>
     </div>
 
-
+    <div class="bg-fixed">
+    </div>
     <section class="testimonials-section bg-img">
         <img class="top-right-test" src="img/art_c.png">
         <img class="bottom-left-test" src="img/art_c.png">
         <div class="container custome-row">
             <div class="row">
-                <div class="col-xs-12">
-                    <div class="title animate showFromRight" data-animate="showFromRight" data-delay="0.1"
-                         style="visibility: visible;"><span class="left line"></span>
+                <div class="col-xs-12 text-center">
+
+                    <div class="title animate showFromUp" data-animate="showFromUp" data-delay="0.1"
+                         style="    display: inline-block; float: none; "><span class="left line">
+
+                        </span>
                         <p>Character</p>
-                        <h1>Muhammad's<br>Character </h1> <span class="right line">
+                        <h1>Muhammad<br>& Prophecy </h1> <span class="right line">
                         <object id="pbuh01" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>
                         </span></div>
-                    <p class="animate showFromRight" data-animate="showFromRight" data-delay="0.2"
-                       style="visibility: visible;"> Muslims have no drawings or pictures for prophet Muhammad or the
-                        prophets before him. However, unlike the founders of the great faith traditions prior to his
-                        time, the Prophet Muhammad is much more a recognizable historical figure as his companions and
-                        family members described him very well and recorded many stories from his life for
-                        posterity.</p>
                 </div>
             </div>
-            <div class="characters-section">
+            <div class="">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 pull-right">
+                    <div class="col-xs-12 text-center">
+                        <span class="block">
+                                <span id="divines"></span>
+                                </span>
+                        <div class="heading-left animate showFromDown" data-animate="showFromDown"
+                             data-delay="0.3">
+                            <h2 class="start-part d-inline-block">Muhammad didn’t know that he would be a Prophet
+
+                                <div class="dots"></div>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-12">
+                        <div class="characters-text-box ">
+
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
+                                 data-delay="0.3">
+                                <h2 class=" font-20 ">Muhammad didn’t know that he would be a Prophet
+
+                                </h2>
+                            </div>
+
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                He led an ethical and ordinary life. He was known for his fidelity, integrity and
+                                trustworthiness. He never worshipped idols when idol worship was rife in a polytheistic
+                                society.
+                                <br>
+                                He always believed that the whole universe must have been created and controlled by one
+                                God. He used to worship God by retreating to a cave (634m above sea level) on a mount 4
+                                km east of Mecca (Makkah).
+                                <br>
+                                The cave is known as Hira cave which is on a mount called "Jabal Al Noor" (i.e. Mount of
+                                light). This is because Muhammad received the first revelation from God when he was
+                                meditating in this cave.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8 pull-right">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
+                                 data-delay="1.3">
+                                <h2 class="font-20">It wasn’t illusion and it wasn’t a dream</h2>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                When Muhammad reached forty years old, he used to meditate frequently in Cave Hira. At
+                                the month of Ramadan (the ninth month of the lunar year, 610 CE approx), Archangel
+                                Gabriel appeared to him for the first time while he was in the cave and asked him to
+                                “Read”. Muhammad was frightened.<br><br>
+                                As he was illiterate, he could not read and did not know what to read. Archangel Gabriel
+                                repeated his word “read” again and again then he recited the following verses from God:
+
+                            </p>
+                            <br>
+                            <span class="hadith verse animate  showFromDown" data-animate="showFromDown" data-delay="5"">
+                            “Read in the Name of your Lord Who created (everything), He created man from a clot
+                            (clinging to the wall of the womb)…Read ! and your Lord is the All-Munificent Who taught man
+                            by the pen…He taught man what he didn’t know!”
+                            <span class="refs">The Quran, 96:1-5</span> </span>
+                            <br>
+                            <p class="animate  showFromDown" data-animate="showFromDown" data-delay="5">Archangel
+                                Gabriel disappeared after this short meeting.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 ">
+                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
+                             data-delay="0.1">
+                            <img src="img/hira-cave.png" alt="history">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
+                                 data-delay="1.3">
+                                <h2 class="font-20">Muhammad was terrified</h2>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                He was extremely scared. He ran back to his home. He was trembling. He told his wife
+                                Khadijah what happened to him and asked her to cover him. She told him that God would
+                                not let him down or allow devils to touch him as he kept good relations with his
+                                relatives, helped the poor people and liked doing charity.
+
+                            </p>
+                            <br>
+                            <!--                            <span class=" verse animate gray  showFromLeft col-sm-3 " data-animate="showFromLeft"-->
+                            <!--                                  data-delay="5">-->
+                            <!--                            This is the word Muhammad in Arabic designed by Artist Abdul Majid Al Noerat. It simulates-->
+                            <!--                            the climb of Muhammad on the mount of Noor (Light), and his striving to find about the One-->
+                            <!--                            God, the Creator and Lord of all beings</span>-->
+                            <!--                            <img src="img/moh.png" class="col-sm-3 animate  showFromRight" data-animate="showFromRight"-->
+                            <!--                                 data-delay="5">-->
+                            <br>
+
+                        </div>
+                        <div class="characters-text-box mt-50">
+                            <span class="block">
+                            <span id="divines"></span>
+                                </span>
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
+                                 data-delay="0.3">
+                                <h2 class="font-20">A divine revelation or satanic whisperings?</h2>
+                            </div>
+
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                Muhammad was afraid that he was possessed by evil. He went with his wife Khadijah to
+                                tell the whole story to Waraqa Bin Nawfal (a relative of Khadijah) who was a religious
+                                Christian person and knowledgeable in the Bible. Waraqa predicted that Muhammad would be
+                                a Prophet and assured him that what he experienced was a divine revelation similar to
+                                what Moses the Prophet of Jews received. Waraqa wished to support Muhammad but he was
+                                very old at that time. He told Muhammad that he would be driven out of Makkah by his own
+                                people and would be treated with hostility by some people.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4 ">
+                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
+                             data-delay="0.1">
+                            <img class="w-100" src="img/tt.png" alt="history">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8 pull-right">
+                        <div class="characters-text-box">
+                            <span class="block">
+                            <span id="divines"></span>
+                                </span>
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
+                                 data-delay="0.3">
+                                <h2 class="font-20">You are God’s Messenger</h2>
+                            </div>
+
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                Muhammad needed a few days to settle down and didn’t return to the mount. After some
+                                time Archangel Gabriel came back to him and informed him that he would be a messenger of
+                                God (Allah The Glorified and Exalted) in order to convey His Divine Message to all
+                                people. Gabriel recited the following verses from God:
+
+                            </p>
+                            <span class="hadith verse animate  showFromDown" data-animate="showFromDown"
+                                  data-delay="4">
+                            “O you cloaked (enveloped in your garments); Arise and warn; and glorify your Lord; and
+                            purify your clothing; and keep away from bad deeds and don’t consider your fulfillment
+                            of these orders as a favor to God or people; and be patient for the sake of your Lord”
+                            <span class="refs">The Quran, 74:1-7</span> </span>
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="4">
+                                Gabriel continued to come to Muhammad over a period of 23 years. During this period,
+                                God’s Message to humankind (the Quran) was revealed.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 ">
+                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
+                             data-delay="0.1">
+                            <img class="w-100" src="img/tt.png" alt="history">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-7 col-sm-7">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft" data-delay="1.3">
+                                <h2 class="font-20">Muhammad conveyed Gods’ Message to all people:
+
+                                </h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                Muhammad acted according to the revelation he received in year 610 CE. He invited the
+                                people in Arabia and outside Arabia to believe in one God (Allah) and obey His
+                                commandments as they are set for the wellbeing of the whole humanity.
+                            </p>
+                        </div>
+                        <div class="characters-text-box mt-50">
+                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft" data-delay="1.3">
+                                <h2 class="font-20">What is the “Message” about?
+                                </h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                The Message of Islam is based on “Aqidah” i.e. a declaration of faith in One God and
+                                “Shariah” which means God’s Law; the system and regulations that govern people’s day to
+                                day transactions, activities and practices.
+                                <br>
+                                <br>
+                                Shariah is divided into three main branches: (1) Worship: such as daily prayers,
+                                fasting, supplications, giving Zakat (alms), etc. (2) Life transactions and dealings
+                                with others such as rules of justice, people’s rights, commerce and business ethics,
+                                inheritance, etc. (3) Morals: such as right actions, etiquettes and values (honesty,
+                                sincerity, fidelity, love, cooperation, etc).
+                                <br><br>
+                            <div class="note animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                <!--<b></b><i></i>-->
+                                <div class="off">
+                                    <div>
+                                        <div contenteditable="true" spellcheck="false">
+                                            <span>Note:</span><br/>
+                                            After receiving divine revelation, Muhammad focused on teaching people
+                                            monotheism (Aqidah) for thirteen years. After migration to Madinah, there
+                                            was more focus on explaining and implementing Shariah.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-5 col-sm-5 ">
+                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                             data-delay="0.1">
+                            <img class="ayat" src="img/ayat.png" alt="hira">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8 pull-right">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
+                                 data-delay="1.3">
+                                <h2 class="font-20">A practical introduction of Muhammad's teachings in Abyssinia </h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                Ja’far bin Abi-Talib was among eighty Muslims who fled for protection in the land of
+                                Abyssinia (currently Ethiopia in Africa). Speaking to the King of Abyssinia on behalf of
+                                the Muslims who sought asylum there, Ja’far said
+                            <div class="note animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                <!--<b></b><i></i>-->
+                                <div class="off">
+                                    <div>
+                                        <div contenteditable="true" spellcheck="false" class="text-justify">
+                                            “O King, we were once people living in ignorance (unawareness and lack of
+                                            knowledge), worshiping idols, eating carrion, committing acts of
+                                            abomination, neglecting our kith & kin, treating our neighbors badly and
+                                            allowing the strong among us to oppress the weak. This is how we lived until
+                                            God sent us a messenger from among ourselves, a man whose origin, honesty,
+                                            integrity and chastity were well known to us. He called upon us to worship
+                                            God alone and leave away the stones and idols which we worshipped as our
+                                            forefathers had done. He instructed us to be truthful in our words, to
+                                            fulfill our promises and to respect our obligations to our blood relations
+                                            and he forbade us from committing abominations. So we trusted & believed him
+                                            and followed the message he received from God. However, our people denounced
+                                            us, tortured us and did everything in their capacity to turn us away from
+                                            our religion. When they continued to oppress us, we came to your land
+                                            choosing you above all others in order to get protection and be treated with
+                                            impartiality.”
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/characters/1.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8">
                         <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
+                            <div class="heading-left animate showFromRight" data-animate="showFromRight"
                                  data-delay="1.3">
-                                <h2>What did he look like?</h2>
+                                <h2 class="font-20">A Christian King acknowledged Muhammad’s religion:</h2>
                             </div>
                             <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad was an Arab of noble lineage with a white complexion and a rosy tinge. He was a
-                                little taller than average and well built with broad shoulders. His belly never
-                                protruded out from his chest. He walked briskly and firmly. Muhammad’s companions
-                                described him as a handsome person with prominent forehead, high tipped nose, long
-                                eyelashes, large black eyes with well set teeth and a pleasant smile. He had slightly
-                                curly hair and a thick beard. His hair was black but included few white hairs. His
-                                companions indicated that he had a friendly bright face that looked like a full moon. He
-                                did not laugh loudly; his laugh was mostly a smile that would show his teeth a bit like
-                                hailstones. His cheerfulness and open personality were felt by all people.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
-                             data-delay="0.1">
-                            <img src="img/characters/2.jpg" alt="history">
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
-                                <h2>His nature</h2>
+                                After Ja’far delivered his talk, the King of Abyssinia (who was a religious and God
+                                fearing person) asked Ja’far to recite some verses from the "Book" revealed to Muhammad.
+                                <br><br>
+                                Ja’far recited a portion from the chapter “Mary”1, the Mother of Jesus. He continued
+                                recitation until the King wept and his beard was moist with tears.
+                                “The message brought by Muhammad and that which was brought by Jesus are from a single
+                                source.” The King then said:
+                            <div class="note animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                <!--<b></b><i></i>-->
+                                <div class="off"
+                                <div>
+                                    <div contenteditable="true" spellcheck="false" class="text-justify">
+                                        “The message brought by Muhammad and that which was brought by Jesus are from a
+                                        single source.”
+                                    </div>
+                                </div>
                             </div>
-                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad was unfailingly cheerful, easy going by nature, and mild mannered. He never
-                                resorted to offensive speech or obscenities. He did not find fault with others nor did
-                                he overly praise the others.
-                            </p>
                         </div>
+                        </p>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 pull-right">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
-                             data-delay="0.1">
-                            <img src="img/characters/4.jpg" alt="history">
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
-                                <h2>His emotions and passions </h2>
-                            </div>
-                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad kept his feelings under firm control. When annoyed, he would turn aside or keep
-                                silent. When someone committed an act that violates God’s law, he used to show serious
-                                anger and a firm stand. No one would stand against his anger in matters of the Lord’s
-                                truth being opposed, he would stand fast in protecting the truth as revealed in the
-                                Quran. Muhammad never got angry for his own sake.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 ">
+                    <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/characters/1.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
-                                <h2>The way he spoke </h2>
-                            </div>
-                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad did not speak unnecessarily and what he said was always to the point and
-                                without any padding. His sayings were precise and concise having complete meaning in few
-                                words. He spoke with excellence, and there was no excess in it and no abnormal brevity.
-                                <br><br>
-                                When he emphasized a point, he used to repeat it three times with a gesture. He spoke of
-                                nothing unless he hoped a reward from God for it. He told his companions:
+                </div>
+                <!-- Message section -->
+                <div class="row mt-50">
+                    <div class="col-xs-12 text-center">
+                        <span class="block">
+                                <span id="divines"></span>
+                                </span>
+                        <div class="heading-left animate showFromDown" data-animate="showFromDown"
+                             data-delay="0.3">
+                            <h2 id="message" class="start-part d-inline-block">The Message of Islam
 
-                            </p>
-                            <span class="hadith verse animate showFromLeft" data-animate="showFromRight"
-                                  data-delay="3.3">
-                           "I am a guarantor for a house at the outskirts of  the Paradise for those who quit arguing even if they were right and I am a guarantor for a house in the middle of the Paradise for those who quit lying even if they were kidding and I am a guarantor for a house in the highest part in the Paradise for those who behave with good manners."
-                           <span class="refs">(Sahih Abu Dawood)</span> </span>
+                                <div class="dots"></div>
+                            </h2>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 pull-right">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
-                             data-delay="0.1">
-                            <img src="img/characters/3.jpg" alt="history">
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
+                <div class="row mt-50">
+                    <div class="col-md-12">
+                        <div class="characters-text-box ">
+                            <div class="heading-left animate showFromRight " data-animate="showFromRight"
                                  data-delay="1.3">
-                                <h2>His interactions with people</h2>
+                                <h2 class="font-20">Islam in simple words:</h2>
                             </div>
                             <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad was always the first to greet others and would not withdraw his hand from a
-                                hand shake until the other man withdrew his.
-                                <br><br>
-                                Whoever saw him unexpectedly would admire and revere him. And whoever socialized or
-                                associated with him familiarly, loved him. He was gentle by nature. He was neither
-                                coarse nor disdainful of anyone.
-                                <br><br>
-                                When he looked at the others, he looked at them in full face. If someone called him he
-                                didn't turn his face only, but gave attention with his whole body.
-                                <br><br>
-                                When he used to visit a group, he would sit in the nearest available spot.
-                                <br><br>
-                                He did not like reserving seats for others and he ordered his companions to follow his
-                                practice.
-                                <br><br>
-                                Also, he used to give those seated near him his full share of attention in such a way
-                                that no one would think others had been given precedence over him.
-                                <br><br>
-                                He was fair with his companions and all people. They were distinguished only by virtue
-                                and devotion to God
-
+                                “Islam” means submission and devotion to One God. It is a religion of monotheism where
+                                the adherent to Islam believes that God is one and incomparable. He has no partners or
+                                sons. He begets not nor was he begotten (neither gives birth nor was born). He created
+                                the whole universe and all beings. No one shares with Him His Divinity and no one has
+                                the right to be worshiped or prayed to but Him alone.
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 ">
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8 pull-right">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromRight" data-animate="showFromRight"
+                                 data-delay="1.3">
+                                <h2 class="font-20">What is the name of God?</h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                His name is "Allah". It is pronounced Allaah with a long vowel “a”. Also, God has many
+                                beautiful names and attributes. Some of these attributes were mentioned in the Old
+                                Testament. For example, the name Quddous in Arabic is similar to the name Qadosh or
+                                Hakkadosh in Hebrew, which means "The Holy". The name Ahad in Arabic is similar to the
+                                name Echad in Hebrew, which means "The One". In Islam, God is often described as "The
+                                Most Gracious, The Most Merciful".
+                            </p>
+                            <table class="table merciful animate showFromDown" data-animate="showFromDown"
+                                   data-delay="3.3">
+                                <thead>
+                                <tr>
+                                    <th>English</th>
+                                    <th>Arabic</th>
+                                    <th>Hebrew</th>
+                                    <th>Aramaic</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>God</td>
+                                    <td>Elah</td>
+                                    <td>Eloha</td>
+                                    <td>Elaha</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <div class="note animate showFromLeft" data-animate="showFromRight" data-delay="3.3"
+                                 style="   ">
+                                <!--<b></b><i></i>-->
+                                <div class="off">
+                                    <div>
+                                        <div contenteditable="true" spellcheck="false">
+                                            <span>Note:</span><br/>
+                                            In the Arabic Bible, the word Allah is frequently mentioned to indicate God.
+                                            <br>
+                                            In Islam there are 99 acknowledged "beautiful names" and attributes for God
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <span class="hadith verse animate showFromDown text-justify" data-animate="showFromDown"
+                                  data-delay="4" style="visibility: visible;">
+                            "He is Allah besides Whom there is no God: The Knower of the unseen and the seen; He is the Beneficent, the Merciful.
+                                <br><br>
+He is Allah, besides Whom there is no God; the King, the Holy, the Author of Peace, the Granter of Security, Guardian over all, the Mighty, the Supreme, the Possessor of greatness. Glory be to Allah from that which they set up (with Him)!
+                                <br><br>
+He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful names. Whatever is in the heavens and the earth declares His glory; and He is the Mighty, the Wise".
+                            <span class="refs">The Quran, 59:22-24</span> </span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/characters/1.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8">
+                        <div class="characters-text-box ">
+                            <div class="heading-left animate showFromRight" data-animate="showFromRight"
                                  data-delay="1.3">
-                                <h2>His style of living </h2>
+                                <h2 class="font-20">Muhammad and Islam</h2>
                             </div>
                             <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Everything he did was in moderation, without excess or contrariness. He never criticized
-                                the food or drink that was prepared for him, nor did he overly praise it.
-                                <br><br>
-                                When at home, he would divide his time into three parts: One for God, one for his
-                                family, and one for himself. He always joined in household work and would at times mend
-                                his clothes, repair his shoes and sweep the floor. He used to dress well and smell good.
-                                <br><br>
-                                After dawn prayers, he preferred sitting in the mosque reciting the Quran and praises of
-                                Allah, till the sunrise. After midnight, he used to get up for the (Tahajjud) prayers
-                                (extra prayers and supplications to God at night).
-                                <br><br>
-                                He declared unlawful for himself and his family anything given by people by way of the
-                                alms (zakat given by Muslims for the welfare of those in need). He was so particular
-                                about this, that he would not appoint any member of his family as a collector of alms
-                                for the community.
-                                <br><br>
-                                His house was but a hut with walls of unbaked clay and a roof of palm leaves covered by
-                                camel skin.
+                                When a man asked Muhammad to explain Islam in simple words so that he should not seek
+                                any further clarification from anyone else, Muhammad concisely said:
                             </p>
-                            <span class="hadith verse animate showFromLeft" data-animate="showFromRight"
-                                  data-delay="3.3">
-                                Muhammad said: "What have I to do with worldly things? My connection with the
-                                world is like that of a traveler resting for a while underneath the shade of a tree
-                                and then moving on."
-                                <span class="refs">(2/666- 2788, Musnad Ahmad, Narrated by Abdullah bin Abbas)</span> </span>
+                            <div class="note animate showFromLeft" data-animate="showFromRight" data-delay="3.3"
+                                 style="">
+                                <!--<b></b><i></i>-->
+                                <div class="off">
+                                    <div>
+                                        <div contenteditable="true" spellcheck="false">
+                                            <span>Note:</span><br/>
+                                            “Say, I believe in Allah (the one God) and then be straight.”
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                Embracing the Islamic faith requires following a balanced way of life without diversion
+                                to extremism in words, actions or deeds.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                             data-delay="0.1">
+                            <img src="img/characters/1.png" alt="history">
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-xs-12 characters-home-img">
-                        <img class="img-responsive animate showFromDown" data-animate="showFromLeft"
-                             data-delay="0.1" src="img/characters/home.png"
-                    </div>
-                </div>
-
             </div>
     </section>
+
 
     <?php include('footer.php') ?>
     <script>
 
     </script>
     <script type="text/javascript" src='js/functions.js'></script>
-
+    <script>
+        $('html,body').animate({
+            scrollTop: $(window.location.hash).offset().top
+        });
+    </script>
 
 </body>
 

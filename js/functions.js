@@ -148,8 +148,8 @@ function initParallax() {
 
                 for (var i = 0; i < parallaxQuantity; i++) {
 					  var currentElement = parallaxElements.eq(i);
-					  var scrolled = $(window).scrollTop();					
-					
+					  var scrolled = $(window).scrollTop();
+
                     if ($this.parents('.parallax-section').is('.page-title')) {
                         currentElement.css({
                             'transform': 'translate3d(0,' + ($scrolledTop * $speed - 80) + 'px, 0)'
@@ -157,15 +157,15 @@ function initParallax() {
                     } else if ( $this.parents('.parallax-mobile').length )  {
                         $this.css({
                             'transform': 'translate3d(0,' + ($scrolled * $speed + 10) + 'px, 0)'
-                        });                            
+                        });
                     } else {
                         currentElement.css({
                             'transform': 'translate3d(0,' + ($scrolled * $speed + 10) + 'px, 0)'
-                        }); 
+                        });
                     }
                 }
             });
-        }        
+        }
     });
     window.addEventListener("scroll", function () {
         if (!$(this).isMobile()) {
@@ -175,10 +175,10 @@ function initParallax() {
                         $speed = $this.attr('data-parallax-speed'),
                         $scrolled = $(window).scrollTop() - $this.offset().top + $this.height(),
                         $scrolledTop = $(window).scrollTop() - $this.offset().top;
-                    
-                    for (var i = 0; i < parallaxQuantity; i++) {     
+
+                    for (var i = 0; i < parallaxQuantity; i++) {
 						  var currentElement = parallaxElements.eq(i);
-						  var scrolled = $(window).scrollTop();							
+						  var scrolled = $(window).scrollTop();
                         if ($this.parents('.parallax-section').is('.page-title')) {
                             currentElement.css({
                                 'transform': 'translate3d(0,' + $scrolledTop * $speed + 'px, 0)'
@@ -186,7 +186,7 @@ function initParallax() {
                         } else {
                             $this.css({
                                 'transform': 'translate3d(0,' + $scrolled * $speed + 'px, 0)'
-                            });                            
+                            });
                         }
                     }
                 });
@@ -210,39 +210,19 @@ function initParallax() {
 //========  copyright year ========//
 $('#year').html(new Date().getFullYear());
 
-var prevX = 0;
-var prevY = 0;
-var posX = "-50%";
-var posY = "-50%";
-var moveUp = false;
-var movedLeft = false;
 
+//Smoothly scroll to element
 
-// EVENT HANDLERS
-$(".move-background").hover(function (event) {
-    prevX = event.pageX;
-    prevY = event.pageY;
-}, null);
+$('#qmenu li a').click(function (e) {
+    e.preventDefault();
 
-$(".move-background").mousemove(function (event) {
-    moveBackground(event);
+    $('html , body').animate({
+        scrollTop:$('#' + $(this).data('scroll')).offset().top - 10
+    },1000);
 });
 
-// PARALLAX BACKGROUN EFFECT
-function moveBackground(event) {
 
-    directionMoved(event);
-
-    posX = (movedLeft) ? "-49%" : "-51%";
-    posY = (movedUp) ? "-49%" : "-51%";
-
-    $(".background").css({"-webkit-transform": "translate(" + posX + "," + posY + ")"});
-
-    prevX = event.pageX;
-    prevY = event.pageY;
-}
-
-function directionMoved(event) {
-    movedLeft = (prevX > event.pageX) ? true : false;
-    movedUp = (prevY > event.pageY) ? true : false;
-}
+//click nav
+$( ".nav a" ).click(function() {
+    $( "#btn-nav-close" ).click();
+});

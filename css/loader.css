@@ -28,9 +28,7 @@ background-color:transparent;
 body {
     overflow: hidden;
 }
-body.loaded {
-    overflow: auto;
-}
+
 /*
 .mesh_loader {
 	background:

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="">
+<html lang="" style="height: 100%">
 
 <?php include ('style.php') ?>
 
-<body class="loaded">
+<body class="loaded" style="overflow: visible">
     <div class="loader">
         <div class="preloader">
             <div class="bg mesh_loader"></div>
