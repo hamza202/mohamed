@@ -93,7 +93,7 @@
             <div class="row">
                 <div class="col-xs-12 text-center">
 
-                    <div class="title animate showFromUp" data-animate="showFromUp" data-delay="0.1"
+                    <div class="title animated wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s"
                          style="    display: inline-block; float: none; "><span class="left line">
 
                         </span>
@@ -527,6 +527,52 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                             <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
                                 Embracing the Islamic faith requires following a balanced way of life without diversion
                                 to extremism in words, actions or deeds.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                             data-delay="0.1">
+                            <img src="img/characters/1.png" alt="history">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-50">
+                    <div class="col-md-8 col-sm-8 pull-right">
+                        <div class="characters-text-box ">
+                            <div class="heading-left animate showFromRight" data-animate="showFromRight"
+                                 data-delay="1.3">
+                                <h2 class="font-20">Islam and peace:</h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                Linguistically the word “Islam” in Arabic comes from the root word “salama”, which means
+                                free of harm and is related to the word “Salaam” , which means peace.
+                            <div class="note animate showFromLeft showFromUp" data-animate="showFromRight"
+                                 data-delay="3.3">
+                                <!--<b></b><i></i>-->
+                                <div class="off">
+                                    <div>
+                                        <div contenteditable="true" spellcheck="false">
+                                            <span>Note:</span><br>
+                                            Prophet Muhammad defined a Muslim as “the one whom other people are safe
+                                            from harm coming from his tongue and hands”, i.e. people should not receive
+                                            any harm from his actions and words.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </p>
+
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                In Islam, “The Peace” is one of the magnificent names and attributes of God (Allah). The
+                                one who submits to Allah should find inner peace within him/ herself and should be at
+                                peace with the environment and the people.
+                            </p>
+                            <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                It is interesting to know that in a Muslim society, people greet each other with the
+                                word “ Assalamo Alaykom” which means “peace be upon you” instead of the words “Hi” or
+                                “Hello”. The full version of this statement is “peace be upon you as well as Allah’s
+                                mercy and blessings”.
                             </p>
                         </div>
                     </div>

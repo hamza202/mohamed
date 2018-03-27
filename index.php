@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="" style="height: 100%">
+<html lang="" style="height: 100%; overflow: visible">
 
 <?php include ('style.php') ?>
 
-<body class="loaded" style="overflow: visible">
+<body class="loaded" style="height: 100%; overflow: auto; overflow-x: hidden!important;">
     <div class="loader">
         <div class="preloader">
             <div class="bg mesh_loader"></div>
@@ -17,7 +17,7 @@
             </svg>
         </div>
     </div>
-    <div id="wrapper" class="main-wrap">
+    <div id="wrapper" class="main-wrap"  style="height: 100%;">
     <?php include ('header.php')?>
         <section id="home" class="mesh">
             <div class="wrapper">
@@ -301,13 +301,12 @@
         <?php include ('footer.php')?>
 
         <script type="text/javascript" src="js/scrollMonitor.js"></script>
+
         <script type="text/javascript" src='js/earth.js'></script>
-
-
 
         <script>
             (function() {
-
+                document.body.classList.remove('loading');
 
                 var scrollElemToWatch_1 = document.getElementById('rev-1'),
                     watcher_1 = scrollMonitor.create(scrollElemToWatch_1, -100),
@@ -409,7 +408,9 @@
                 });
             })();
         </script>
+
         <script type="text/javascript" src='js/functions.js'></script>
+
 
 
 </body>

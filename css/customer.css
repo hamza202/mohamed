@@ -82,7 +82,7 @@ th{
     position: relative;
     z-index: 5;
   }
-  
+
   @media (min-width: 1200px) and (min-height: 660px) {
     .bg-white {
       padding: 155px 23px 155px 15px;
@@ -92,7 +92,7 @@ th{
       margin-bottom: -30px;
     }
   }
-  
+
   @media (max-height: 650px) and (min-width: 1200px) {
     .bg-white {
       margin-top: 0;
@@ -100,7 +100,7 @@ th{
       padding: 87px 23px 50px 15px;
     }
   }
-  
+
   .bg-white:before {
     display: none;
     content: '';
@@ -119,26 +119,26 @@ th{
       background-position: left;
       background-repeat: no-repeat;
   }
-  
+
   @media (min-width: 768px) {
     .bg-white:before {
       display: block;
     }
   }
-  
+
   @media (min-width: 992px) {
     .bg-white:before {
       right: -103px;
       left: -100vw;
     }
   }
-  
+
   .bg-white-var-1 {
     background-color: #fff;
     box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.11);
     padding: 57px 0 95px;
   }
-  
+
   .bg-white-var-1 p {
     margin-top: 49px;
     padding: 0 56px 0 73px;
@@ -146,19 +146,19 @@ th{
   .triangel {
     display: none;
   }
-  
+
   @media (min-width: 1200px) and (min-height: 660px) {
     .triangel {
       display: block;
     }
   }
-  
+
   @media (max-height: 650px) and (min-width: 1200px) {
     .triangel {
       display: none;
     }
   }
-  
+
   .triangel:before {
     position: absolute;
     content: '';
@@ -171,27 +171,27 @@ th{
     border-color: #000 transparent transparent transparent;
     z-index: -2;
   }
-  
+
   .triangel-position:before {
     left: 79.8%;
   }
-  
+
   .triangel-var-1 {
     display: none;
   }
-  
+
   @media (min-width: 1200px) and (min-height: 660px) {
     .triangel-var-1 {
       display: block;
     }
   }
-  
+
   @media (max-height: 650px) and (min-width: 1200px) {
     .triangel-var-1 {
       display: none;
     }
   }
-  
+
   .triangel-var-1:before {
     position: absolute;
     content: '';
@@ -210,13 +210,13 @@ th{
     position: relative;
     min-height: 576px;
   }
-  
+
   @media (min-width: 992px) {
     .bg-images-1 {
       display: block;
     }
   }
-  
+
   .bg-images-1:before {
     content: '';
     background-image: url("../img/arabia.jpg");
@@ -229,13 +229,13 @@ th{
     right: 0;
     z-index: 1;
   }
-  
+
   @media (min-width: 992px) {
     .bg-images-1:before {
       left: -40px;
       right: -42vw;
     }
-  }  
+  }
   .row-xs-center {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -484,14 +484,14 @@ img {
   .timeline::after {
     left: 31px;
   }
-  
+
   /* Full-width containers */
   .containerTimeLine {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
-  
+
   /* Make sure that all arrows are pointing leftwards */
   .containerTimeLine::before {
     left: 60px;
@@ -504,7 +504,7 @@ img {
   .leftTimeLine::after, .rightTimeLine::after {
     left: 15px;
   }
-  
+
   /* Make all right containers behave like the left ones */
   .rightTimeLine {
     left: 0%;
@@ -539,7 +539,7 @@ html , forlinediv{
     top: 10px;
     right: 3%;
     width: 44%;
-     
+
 }
 .fordisplayimg0{display: none;}
 @media only screen and (max-width: 767px) {

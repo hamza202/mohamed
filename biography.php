@@ -52,7 +52,6 @@
 <!---->
 <div class="timeline1">
 <div style="position:relative;">
-<div class="forPicRight animated wow zoomIn" data-wow-delay="1s" data-wow-duration="5s" ><img src="img/makkah.jpg" style="border-radius:7px;"  class="fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s" /></div>
   <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
     <div class="contentTimeLine">
     <!--table1--> 
@@ -182,7 +181,6 @@ peace, harmony and wellbeing.</p></td>
 </div>
   </div>
   <div style="position:relative">
-    <div class="forPicLeft animated wow zoomIn" data-wow-delay="1s" data-wow-duration="2s"><img src="img/quran.jpg" style="border-radius:7px;" class="fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
   <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="2s" style="z-index:100;">
     <div class="contentTimeLine">
     <h2 class="h2 colorh2" style="margin-top: 0;">Education</h2>
@@ -210,7 +208,6 @@ of life and explanation of the Book
     <img src="img/quran.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
 </div>
 <div style="position:relative">
-  <div class="forPicRight animated wow zoomIn" data-wow-delay="1s" data-wow-duration="5s"><img src="img/madinah.jpg" style="border-radius:7px" class="fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
   <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="2s" style="z-index:100;">
     <div class="contentTimeLine">
     <h2 class="h2 colorh2" style="margin-top: 0;">Marital Status</h2>  
@@ -347,7 +344,6 @@ but he didn’t receive any positive response.
       </div>
   </div>
   <div style="position:relative">
-    <div class="forPicRight animated wow zoomIn" data-wow-delay="1s" data-wow-duration="5s"><img src="img/masjed.jpeg" style="border-radius:7px" class="fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s" /></div>
   <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="2s" style="z-index:100;">
     <div class="contentTimeLine">
     <h2 class="h2 colorh2" style="margin-top: 0;">620 - 622 CE</h2>  
@@ -498,7 +494,6 @@ battle.
 </div>
   </div>
   <div style="position:relative">
-    <div class="forPicLeft  animated wow zoomIn" data-wow-delay="0.4s" data-wow-duration="5s"><img src="img/uhud.jpg" style="border-radius:7px" class=" fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
   <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
     <div class="contentTimeLine">
     <h2 class="h2 colorh2" style="margin-top: 0;">625 CE</h2>  
@@ -576,7 +571,6 @@ weighed heavily in favor of the Meccan side.
 </div>
   </div>
   <div style="position:relative">
-    <div class="forPicRight animated wow fadeInRight fade" data-wow-delay="1s" data-wow-duration="5s"><img src="img/resala.png" style="border-radius:7px" class="fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
   <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
     <div class="contentTimeLine">
     <h2 class="h2 colorh2" style="margin-top: 0;">628 - 629 CE</h2>  
@@ -604,7 +598,6 @@ Islam.
     <img src="img/resala.png" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
 </div>
   <div style="position:relative">
-    <div class="forPicLeft animated wow zoomIn" data-wow-delay="1s" data-wow-duration="5s"><img src="img/hajj.jpg" style="border-radius:7px;" class="fordisplayimg animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
   <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
     <div class="contentTimeLine">
     <h2 class="h2 colorh2" style="margin-top: 0;">630 CE</h2>  
@@ -688,61 +681,7 @@ the globe.  <br>
 </p>
 </div>
   </div>
-  <!--  -->
-  <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class=" animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
 
-  <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class=" animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine leftTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine rightTimeLine animated wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
-
-  <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s" style="z-index:100;">
-    <div class="contentTimeLine" style="padding:5px">
-    <img src="img/hajj.jpg" style="border-radius:7px;" class="animated wow fadeIn" data-wow-delay="1s" data-wow-duration="10s"/></div>
-</div>
 
     <!-- <div class="containerTimeLine rightTimeLine">
     <div class="contentTimeLine">
@@ -758,8 +697,9 @@ honesty.</p>
 
 <?php include('footer.php') ?>
     <script type="text/javascript" src='js/functions.js'></script>
-    <script src='js/main.js'></script>
     <script src='js/wow.js'></script>
+    <script src='js/main.js'></script>
+
 </body>
 
 </html>

@@ -6,6 +6,9 @@
         <p>Copyright © Osoul Global Center, <span id="year">2017</span> All rights reserved.</p>
     </div>
 </footer>
+<!-- star button UP -->
+<div> <a id="back-to-top" href="#" class="fa fa-angle-up btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"></a> </div>
+<!-- End star button UP -->
 </div>
 
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
@@ -22,3 +25,15 @@
 <!-- fragment shader a.k.a. pixel shader-->
 <script id="fragmentShader" type="x-shader/x-vertex"> uniform vec3 glowColor; varying float intensity; void main() { vec3 glow = glowColor * intensity; gl_FragColor = vec4( glow, 1.0 ) * intensity; } </script>
 <script type="text/javascript" src='js/owl.carousel.js'></script>
+<script src='js/wow.js'></script>
+<script>
+    wow = new WOW(
+        {
+            animateClass: 'animated',
+            mobile: false,
+            offset: 50
+        }
+    );
+    wow.init();
+
+</script>

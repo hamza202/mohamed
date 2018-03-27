@@ -53,8 +53,8 @@
                 <img class="bottom-left-test" src="img/art_c.png">
         <div class="container custome-row">
             <div class="row">
-                <div class="col-xs-12">
-                    <div class="title animate showFromRight" data-animate="showFromRight" data-delay="0.1" style="visibility: visible;"> <span class="left line"></span>
+                <div class="col-xs-12 ">
+                    <div class="title animated wow fadeInLeft"  data-wow-delay="0.5s" data-wow-duration="1s"> <span class="left line"></span>
                         <p>Testimonials</p>
                         <h1>WHAT THEY<br>SAID ABOUT HIM</h1> <span class="right line">
                         <object id="pbuh01" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>

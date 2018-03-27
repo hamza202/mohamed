@@ -53,14 +53,12 @@
         <div class="container custome-row">
             <div class="row">
                 <div class="col-xs-12">
-                    <div class="title animate showFromRight" data-animate="showFromRight" data-delay="0.1"
-                         style="visibility: visible;"><span class="left line"></span>
+                    <div class="title animated wow fadeInLeft"  data-wow-delay="0.5s" data-wow-duration="1s"><span class="left line"></span>
                         <p>Character</p>
                         <h1>Muhammad's<br>Character </h1> <span class="right line">
                         <object id="pbuh01" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>
                         </span></div>
-                    <p class="animate showFromRight" data-animate="showFromRight" data-delay="0.2"
-                       style="visibility: visible;"> Muslims have no drawings or pictures for prophet Muhammad or the
+                    <p class="animated wow fadeInUp " data-wow-delay="0.9s" data-wow-duration="1s" > Muslims have no drawings or pictures for prophet Muhammad or the
                         prophets before him. However, unlike the founders of the great faith traditions prior to his
                         time, the Prophet Muhammad is much more a recognizable historical figure as his companions and
                         family members described him very well and recorded many stories from his life for

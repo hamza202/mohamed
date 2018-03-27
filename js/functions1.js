@@ -1,26 +1,3 @@
-$(document).ready(function(){
-    "use strict";
-
-$(window).scroll(function(){
-    if ($(this).scrollTop() >= 600) {
-        $('#back-to-top').fadeIn();
-    } else {
-        $('#back-to-top').fadeOut();
-    }
-
-});
-    $('#back-to-top').click(function () {
-        $('body,html').animate({
-            scrollTop: 0
-        }, 1500);
-        return false;
-    });
-
-});
-// scroll body to 0px on click
-
-
-
 $.fn.inView = function () {
     "use strict";
     var win = $(window),
@@ -103,7 +80,108 @@ $('#btn-search').on('click', function(){
 })(window);
 
 //========  reval ========//
+(function() {
+				document.body.classList.remove('loading');
+    
+					var scrollElemToWatch_1 = document.getElementById('rev-1'),
+					watcher_1 = scrollMonitor.create(scrollElemToWatch_1, -100),
+					rev1 = new RevealFx(scrollElemToWatch_1, {
+						revealSettings : {
+							bgcolor: '#f5f6f7',
+							onCover: function(contentEl, revealerEl) {
+								contentEl.style.opacity = 1;
+							}
+						}
+					});
 
+				    watcher_1.enterViewport(function() {
+					   rev1.reveal();
+					   watcher_1.destroy();
+				    });
+                
+                
+					var scrollElemToWatch_2 = document.getElementById('rev-2'),
+					watcher_2 = scrollMonitor.create(scrollElemToWatch_2, -100),
+					rev2 = new RevealFx(scrollElemToWatch_2, {
+						revealSettings : {
+							bgcolor: '#eaecef',
+							direction: 'rl',
+							onCover: function(contentEl, revealerEl) {
+								contentEl.style.opacity = 1;
+                                $('ul.animate').addClass('in').css('visibility', 'visible');
+							}
+						}
+					});
+             
+				watcher_2.enterViewport(function() {
+					rev2.reveal();
+					watcher_2.destroy();
+				});                
+               
+                
+					var scrollElemToWatch_3 = document.getElementById('rev-3'),
+					watcher_3 = scrollMonitor.create(scrollElemToWatch_3, -100),
+					rev3 = new RevealFx(scrollElemToWatch_3, {
+						revealSettings : {
+							bgcolor: '#f5f6f7',
+                            direction: 'rl',
+							onCover: function(contentEl, revealerEl) {
+								contentEl.style.opacity = 1;
+                                $('#art03.animate').addClass('in').css('visibility', 'visible');
+                                $('.content01.animate').addClass('in').css('visibility', 'visible');
+                                
+							}
+						}
+					});
+                    watcher_3.enterViewport(function() {
+                        rev3.reveal();
+                        watcher_3.destroy();
+                    });                
+                
+                
+					var scrollElemToWatch_4 = document.getElementById('rev-4'),
+					watcher_4 = scrollMonitor.create(scrollElemToWatch_4, -100),
+					rev4 = new RevealFx(scrollElemToWatch_4, {
+						revealSettings : {
+							bgcolor: '#f5f6f7',
+//							direction: 'rl',
+							onCover: function(contentEl, revealerEl) {
+								contentEl.style.opacity = 1;
+                                $('#art04.animate').addClass('in').css('visibility', 'visible');
+                                $('.content02.animate').addClass('in').css('visibility', 'visible');
+							}
+						}
+					});             
+				watcher_4.enterViewport(function() {
+					rev4.reveal();
+					watcher_4.destroy();
+				}); 
+    
+    
+    				var scrollElemToWatch_5 = document.querySelector('.d__dontent01'),
+					watcher_5 = scrollMonitor.create(scrollElemToWatch_5, -100),
+					rev5 = new RevealFx(document.querySelector('#rev-5'), {
+						revealSettings : {
+							bgcolor: '#eaecef',
+							direction: 'rl',
+							duration: 800,
+							easing: 'easeInOutCirc',
+							coverArea: 55,
+							onCover: function(contentEl, revealerEl) {
+								contentEl.style.opacity = 1;
+								scrollElemToWatch_5.classList.add('dual__content--show');
+                                //$('.content03.animate').addClass('in').css('visibility', 'visible');
+
+							}
+						}
+					});
+
+				watcher_5.enterViewport(function() {
+					rev5.reveal();
+                    //rev5.destroy();
+					watcher_5.destroy();
+				}); 
+        })();
 
 //========  nav links ========//
 $(function () {
@@ -227,17 +305,3 @@ function initParallax() {
 
 //========  copyright year ========//
 $('#year').html(new Date().getFullYear());
-
-$('#qmenu li a').click(function (e) {
-    e.preventDefault();
-
-    $('html , body').animate({
-        scrollTop:$('#' + $(this).data('scroll')).offset().top - 10
-    },1000);
-});
-
-
-//click nav
-$( ".nav a" ).click(function() {
-    $( "#btn-nav-close" ).click();
-});
