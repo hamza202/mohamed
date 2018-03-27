@@ -75,10 +75,10 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay05" id="civilization"> <a href="javascript:void(0)"><span class="menu__item-name">The Islamic civilization</span></a>
+                    <li class="_nav-item animate showFromLeft delay05" id="civilization"> <a href="civilization.php"><span class="menu__item-name">The Islamic civilization</span></a>
                         <div class="inner-menu civilization">
                             <h2>The Islamic civilization</h2>
-                            <p>Adding value to peoples' lives through love, harmony, knowledge, sport, personal care &amp; development, elimination of corruption, moderation, rational thinking, respecting neighbors and people of other faiths.</p> <a href="#">Read More +</a> </div>
+                            <p>Adding value to peoples' lives through love, harmony, knowledge, sport, personal care &amp; development, elimination of corruption, moderation, rational thinking, respecting neighbors and people of other faiths.</p> <a href="civilization.php">Read More +</a> </div>
                     </li>
                     <li class="_nav-item animate showFromLeft delay06" id="women"> <a href="javascript:void(0)"><span class="menu__item-name">Women in islam</span></a>
                         <div class="inner-menu women">

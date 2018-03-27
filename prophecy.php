@@ -266,7 +266,7 @@
                     <div class="col-md-4 col-sm-4 ">
                         <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
-                            <img class="w-100" src="img/tt.png" alt="history">
+                            <img class="w-100" src="img/prophecy/God-Messenger.png" alt="history">
                         </div>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/1.png" alt="history">
+                            <img src="img/atho.png" alt="history">
                         </div>
                     </div>
                 </div>
@@ -497,7 +497,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                     <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/1.png" alt="history">
+                            <img src="img/prophecy/0000.jpg" alt="history">
                         </div>
                     </div>
                 </div>
@@ -533,7 +533,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                     <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/1.png" alt="history">
+                            <img src="img/prophecy/4.png" alt="history">
                         </div>
                     </div>
                 </div>
@@ -569,10 +569,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                                 peace with the environment and the people.
                             </p>
                             <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
-                                It is interesting to know that in a Muslim society, people greet each other with the
-                                word “ Assalamo Alaykom” which means “peace be upon you” instead of the words “Hi” or
-                                “Hello”. The full version of this statement is “peace be upon you as well as Allah’s
-                                mercy and blessings”.
+                                It is interesting to know that in a Muslim society, people greet each other with the word “ Assalamo Alaykom” which means “peace be upon you” instead of the words “Hi”  or “Hello”.  The full version of this statement is “peace be upon you as well as Allah’s mercy and blessings”.
                             </p>
                         </div>
                     </div>
@@ -594,7 +591,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
     <script type="text/javascript" src='js/functions.js'></script>
     <script>
         $('html,body').animate({
-            scrollTop: $(window.location.hash).offset().top
+            scrollTop: $(window.location.hash).offset()
         });
     </script>
 
