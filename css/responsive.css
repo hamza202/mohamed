@@ -564,7 +564,7 @@ body {
 }
 @media (max-width: 767px) {
     .hero-caption > h1 {
-        font-size: 42px;
+        font-size: 29px;
         margin-bottom: 30px;
     }
 }
@@ -572,5 +572,9 @@ body {
     .hero-caption > p {
         padding-right: 0;
     }
+}
+section.pt-0{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 /*body .container {width:auto !important}*/

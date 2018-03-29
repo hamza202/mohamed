@@ -1839,6 +1839,8 @@ section.testmonial-say {
 
 .testimonials-section {
     position: relative;
+    display: inline-block;
+    width: 100%;
 }
 
 img.top-right-test {
@@ -1865,6 +1867,7 @@ img.top-right-test {
 .characters-section .characters-frame {
     padding: 0 0 0 70px;
     position: relative;
+    top: 8px;
     overflow: inherit;
     margin: 0;
     display: inline-block;
@@ -2436,7 +2439,7 @@ h3.h3-costume{
     background: transparent;
 }
 .project-details {
-    min-height: 915px;
+    min-height: 540px;
     position: relative;
 }
 .d-flex {
@@ -2465,13 +2468,12 @@ h3.h3-costume{
 .hero-caption.white-bg {
     padding: 80px 70px;
     box-shadow: rgba(0, 0, 0, 0.2) 1px 0px 18px 2px;
-    background: rgba(204, 204, 204, 0.32);
+    background: #fff;
 }
 .project-count {
     position: relative;
 }
 .project-count h4 {
-    font-family: poppins;
     font-size: 18px;
     position: absolute;
     top: 29px;
@@ -2484,7 +2486,9 @@ h3.h3-costume{
     opacity: 0.2;
 }
 .hero-caption > h1 {
-    font-size: 60px;
+    font-size: 30px;
+    color: #02224f;
+    text-transform: uppercase;
     margin-bottom: 50px;
     padding-bottom: 20px;
     position: relative;
@@ -2500,7 +2504,7 @@ h3.h3-costume{
 .hero-caption > p {
     color: #747474;
     font-size: 18px;
-    line-height: 32px;
+    line-height: 25px;
     margin-bottom: 40px;
     padding-right: 40px;
 }
@@ -2518,4 +2522,21 @@ h3.h3-costume{
 }
 .hero-caption ul li span {
     color: #3d3d3d;
+}
+.space-100{
+    height: 100px;
+}
+.hero-bg.project-details-thumb.project-details-left {
+    left: 0;
+    right: inherit;
+}
+.character section:not(:first-child){
+    margin-top: 50px;
+}
+.bg_section{
+    box-shadow: 1px 0px 18px 2px rgba(0, 0, 0, 0.2);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(234, 236, 239, 0) 0%, rgba(234, 236, 239, 1) 70%);
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(234, 236, 239, 0) 0%, rgba(234, 236, 239, 1) 70%);
+    background: radial-gradient(ellipse at center, rgba(234, 236, 239, 0) 0%, rgba(234, 236, 239, 1) 70%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00eaecef', endColorstr='#eaecef', GradientType=1);
 }

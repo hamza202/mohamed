@@ -305,3 +305,23 @@ function initParallax() {
 
 //========  copyright year ========//
 $('#year').html(new Date().getFullYear());
+
+function animateOnScroll() {
+
+    /* animations  */
+    if (jQuery("[class*='do-anim']").length > 0) {
+        jQuery("[class*='do-anim']").not('.animated')
+            .filter(function(i, d) {
+                return  jQuery(d).visible(true, false, false, 100);  // 100 is offset
+            }).each(function(i) {
+            var thisItem = jQuery(this);
+            var delayMulti = 200;
+            if (thisItem.hasClass("do-anim-modern")) { delayMulti = 100; }
+            var delay = i*delayMulti + 100;  // + 150 is to add a small delay
+            thisItem.delay(delay).queue(function(){thisItem.addClass('animated');});
+        });
+    }
+
+
+
+}

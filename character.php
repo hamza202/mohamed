@@ -47,10 +47,11 @@
     </div>
 
 
-    <section class="testimonials-section bg-img">
+    <div class="testimonials-section bg-img character" style="display: inline-block; width: 100%">
         <img class="top-right-test" src="img/art_c.png">
         <img class="bottom-left-test" src="img/art_c.png">
-        <div class="container custome-row">
+        <div class=" custome-row">
+            <section class="pt-0">
             <div class="row">
                 <div class="col-xs-12">
                     <div class="title animated wow fadeInLeft"  data-wow-delay="0.5s" data-wow-duration="1s"><span class="left line"></span>
@@ -65,7 +66,9 @@
                         posterity.</p>
                 </div>
             </div>
+            </section>
             <div class="characters-section">
+                <section class="bg_section ">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
@@ -93,6 +96,8 @@
                         </div>
                     </div>
                 </div>
+                </section>
+                <section>
                 <div class="row">
                     <div class="col-md-6 col-sm-6">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
@@ -114,6 +119,8 @@
                         </div>
                     </div>
                 </div>
+                </section>
+                <section class="bg_section">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
@@ -137,6 +144,8 @@
                         </div>
                     </div>
                 </div>
+                </section>
+                <section>
                 <div class="row">
                     <div class="col-md-6 col-sm-6 ">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
@@ -166,6 +175,8 @@
                         </div>
                     </div>
                 </div>
+                </section>
+                <section class="bg_section">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
@@ -205,6 +216,8 @@
                         </div>
                     </div>
                 </div>
+                </section>
+                <section>
                 <div class="row">
                     <div class="col-md-6 col-sm-6 ">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
@@ -247,6 +260,7 @@
                         </div>
                     </div>
                 </div>
+                </section>
                 <div class="row">
                     <div class="col-xs-12 characters-home-img">
                         <img class="img-responsive animate showFromDown" data-animate="showFromLeft"
@@ -255,7 +269,7 @@
                 </div>
 
             </div>
-    </section>
+    </div>
 
     <?php include('footer.php') ?>
     <script>
