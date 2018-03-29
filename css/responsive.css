@@ -47,6 +47,9 @@ body {
     #rev-2 {
         float:right !important;
     }
+    .testimonials-section #rev-2{
+        width: 100%;
+    }
     section:not(#home) {
         display: inline-block;
     }
@@ -547,3 +550,27 @@ body {
         padding: 0;
     }
 }
+
+@media (max-width: 767px) {
+    .project-details-thumb {
+        display: block;
+        width: 100%;
+    }
+}
+@media (max-width: 767px) {
+    .hero-caption.white-bg {
+        padding: 40px 30px;
+    }
+}
+@media (max-width: 767px) {
+    .hero-caption > h1 {
+        font-size: 42px;
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 767px) {
+    .hero-caption > p {
+        padding-right: 0;
+    }
+}
+/*body .container {width:auto !important}*/

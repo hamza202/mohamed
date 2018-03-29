@@ -1038,19 +1038,19 @@ section.bg__section:after {
     padding: 200px 70px;
 }
 
-#rev-2 {
-    -webkit-transform: translate3d(0, -150px, 0);
-    -moz-transform: translate3d(0, -150px, 0);
-    transform: translate3d(0, -150px, 0);
-    margin-right: 0;
-    margin-left: 200px;
-    z-index: 9991;
-}
+/*#rev-2 {*/
+    /*-webkit-transform: translate3d(0, -150px, 0);*/
+    /*-moz-transform: translate3d(0, -150px, 0);*/
+    /*transform: translate3d(0, -150px, 0);*/
+    /*margin-right: 0;*/
+    /*margin-left: 200px;*/
+    /*z-index: 9991;*/
+/*}*/
 
-#rev-2 .s__box {
-    margin-right: 0;
-    margin-left: 0;
-}
+/*#rev-2 .s__box {*/
+    /*margin-right: 0;*/
+    /*margin-left: 0;*/
+/*}*/
 
 .bg__section .s__box.nav ul {
     margin: 0 auto;
@@ -2431,4 +2431,91 @@ h3.h3-costume{
 .alt-font {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+}
+.navigation .submenu .inner-menu ul.nav li a:hover{
+    background: transparent;
+}
+.project-details {
+    min-height: 915px;
+    position: relative;
+}
+.d-flex {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+.align-items-end {
+    -webkit-box-align: end!important;
+    -ms-flex-align: end!important;
+    align-items: flex-end!important;
+}
+.hero-bg {
+    display: flex;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 43%;
+}
+.project-details-thumb {
+    background-size: cover;
+    width: 45%;
+}
+
+.hero-caption.white-bg {
+    padding: 80px 70px;
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 0px 18px 2px;
+    background: rgba(204, 204, 204, 0.32);
+}
+.project-count {
+    position: relative;
+}
+.project-count h4 {
+    font-family: poppins;
+    font-size: 18px;
+    position: absolute;
+    top: 29px;
+}
+.project-count > h1 {
+    color: #3d3d3d;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 5px;
+    opacity: 0.2;
+}
+.hero-caption > h1 {
+    font-size: 60px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.hero-caption > h1::before {
+    background: #f7951e none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    position: absolute;
+    width: 60px;
+}
+.hero-caption > p {
+    color: #747474;
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 40px;
+    padding-right: 40px;
+}
+.hero-caption > ul {
+    margin: 0 -15px;
+    overflow: hidden;
+}
+.hero-caption ul li {
+    color: #747474;
+    float: left;
+    font-size: 18px;
+    margin-bottom: 25px;
+    padding: 0 15px;
+    width: 50%;
+}
+.hero-caption ul li span {
+    color: #3d3d3d;
 }

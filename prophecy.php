@@ -172,7 +172,7 @@
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4 ">
-                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
+                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/prophecy/0000.png" alt="history">
                         </div>
@@ -249,7 +249,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-4 ">
-                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
+                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img class="w-100" src="img/prophecy/33.png" alt="history">
                         </div>
@@ -303,7 +303,7 @@
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-5 ">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
                             <img class="ayat" src="img/ayat.png" alt="hira">
                         </div>
@@ -383,7 +383,7 @@
                         </p>
                     </div>
                     <div class="col-md-4 col-sm-4">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
                             <img src="img/prophecy/44.png" alt="history">
                         </div>
@@ -516,7 +516,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                        <div class="characters-frame animate showFromRight" data-animate="showFromRight"
                              data-delay="0.1">
                             <img src="img/prophecy/5151.png" alt="history">
                         </div>
@@ -593,7 +593,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-4">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                        <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
                             <img src="img/characters/1.png" alt="history">
                         </div>

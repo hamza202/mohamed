@@ -66,13 +66,6 @@
                     <div class="col-md-12">
                         <div class="characters-text-box ">
 
-                            <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
-                                 data-delay="0.3">
-                                <h2 class=" font-20 ">Women Rights
-
-                                </h2>
-                            </div>
-
                             <p class="animated wow fadeInLeft" data-animate="showFromDown" data-delay="3.3">
                                 Before the advent of Islam, women had no civil rights. Arabs used to give preference to
                                 male babies over female ones to the extent that many fathers used to bury their female
@@ -85,21 +78,34 @@
 
             </div>
         </div>
-        <div class="no-pad wow fadeIn bg-extra-dark-gray">
-            <div class="container-fluid no-pad  custome-row">
-                <div class="row equalize sm-equalize-auto no-margin">
-                    <div class="col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInLeft" data-wow-duration="900ms" style="background-image: url('img/flower1.jpg'); height: 500px;">
-                    </div>
-                    <div class="col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight last-paragraph-no-margin" data-wow-duration="900ms">
-                        <div class="display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-no-padding-lr sm-text-center">
-                            <h5 class="alt-font text-light-gray">There is no passion to be found playing small - in settling for a <strong>life that is less</strong> than the one you are capable of living.</h5>
-                            <p class="text-justify xs-text-center">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. <strong class="text-decoration-underline text-medium-gray">All the lorem ipsum generators on the internet tend</strong> to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-                            <p class="text-justify xs-text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a <strong class="text-medium-gray text-decoration-underline">galley of type and scrambled</strong> it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like aldus pagemaker including versions.</p>
+
+        <div class="project-details d-flex align-items-end">
+            <div class="hero-bg project-details-thumb animate showFromRight" style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="hero-caption white-bg">
+                            <h1>THE LUXARY <br> RESIDENCE IN LONDON</h1>
+                            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore.</p>
+                            <ul>
+                                <li><span>Architect:</span> Eema Hirscha</li>
+                                <li><span>Client:</span> Lajavik Vo.</li>
+                                <li><span>Project Type:</span> Villa, Residence</li>
+                                <li><span>Scale:</span> 4000km</li>
+                                <li><span>Date:</span> Jan, 2018</li>
+                            </ul>
+                            <div class="follow-icon project-share">
+                                <span>Follow Me</span>
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 
 

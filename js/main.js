@@ -42,7 +42,7 @@ $(document).ready(function(){
 	    {
 		  animateClass: 'animated',
 		  mobile: false,
-		  offset: 50
+		  offset: 1
 		}
 	);
 	wow.init();
