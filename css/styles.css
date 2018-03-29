@@ -2041,9 +2041,7 @@ img.top-right-test {
 .quick-link {
     position: fixed;
     top: 50%;
-    left: 0;
-    -webkit-box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2), 0px 0px 2px 0px rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2), 0px 0px 2px 0px rgba(0, 0, 0, 0.1);
+    right: 0;
     z-index: 100;
     margin-top: -96px; /* 48*4/2*/
 }
@@ -2052,8 +2050,8 @@ img.top-right-test {
     list-style: none;
     list-style-position: outside;
     display: block;
-    height: 48px;
-    width: 48px;
+    height: 29px;
+    width: 40px;
     position: relative;
 }
 
@@ -2088,15 +2086,14 @@ img.top-right-test {
 
 /* 3.2 Links */
 .quick-link a {
-    background: rgba(136, 71, 2, 0.60);
     height: 48px;
     width: 48px;
     line-height: 40px;
     display: block;
     text-align: center;
-    font-size: 22px;
+    font-size: 16px;
     padding-top: 0.4rem;
-    color: #fff;
+    color: #29aae1;
     opacity: 1;
     position: relative;
     z-index: 1;
@@ -2131,13 +2128,12 @@ img.top-right-test {
     z-index: -1;
 }
 
-.quick-link ul li.active:after,
-.quick-link a:hover:after {
-    -webkit-transform: none;
-    transform: none;
-    border-radius: 0;
-    background: rgba(255, 255, 255, 0.15);
-    background: #d8df21;
+.quick-link ul li a.active,
+.quick-link a:hover {
+    color: #18355e;
+}
+.quick-link ul li a.active{
+    font-size: 25px;
 }
 
 .quick-link ul li.active:after {
@@ -2152,13 +2148,14 @@ img.top-right-test {
 .quick-link .titles {
     position: absolute;
     font-size: 12px;
-    left: 56px;
-    top: 17px;
-    color: #29aae1;
+    right: 41px;
+    top: 14px;
+    color: #18355e;
+    background: #c1c1c196;
+    padding: 5px;
     text-transform: uppercase;
     text-align: left;
     width: 180px;
-    border-bottom: 1px solid currentColor;
     display: block;
     transform: translateX(10px);
     -webkit-transition: 0.3s;
@@ -2352,6 +2349,7 @@ img.ayat {
 #back-to-top:hover {
     background: #02224f;
 }
+/*End button UP*/
 ul.list-custom{
     list-style: none;
     border-radius: 4px;
@@ -2391,4 +2389,46 @@ h3.h3-costume{
     font-size: 19px;
     color: #02224f;
 }
-/*End button UP*/
+.row-style{
+    background: rgba(204, 204, 204, 0.32);
+    padding: 20px 0;
+    box-shadow: 1px 0px 18px 2px rgba(0, 0, 0, 0.2);
+}
+.no-pad{
+    padding: 0 !important;
+}
+.bg-extra-dark-gray {
+    background-color: #1c1c1c;
+}
+.no-margin {
+    margin: 0 !important;
+}
+.position-relative {
+    position: relative !important;
+}
+.cover-background {
+    position: relative !important;
+    background-size: cover !important;
+    overflow: hidden !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+.display-table {
+    display: table !important;
+}
+.display-table-cell {
+    display: table-cell !important;
+}
+.padding-fifteen-all {
+    padding: 15%;
+}
+.vertical-align-middle {
+    vertical-align: middle;
+}
+.text-light-gray {
+    color: #d6d5d5;
+}
+.alt-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}

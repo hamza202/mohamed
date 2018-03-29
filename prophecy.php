@@ -26,33 +26,34 @@
     <nav class="quick-link count-6 nav-left">
         <ul id="qmenu">
             <li>
-                <a data-scroll="divines" href="#" class=""><i class="fas fa-cloud"></i>
+                <a data-scroll="divines" href="#" class=""><i class="fas fa-circle"></i>
+
                 </a>
                 <span class="titles">Muhammad and Divine revelation</span>
             </li>
             <li>
-                <a href="#" data-scroll="message" class=""><i class="fas fa-envelope"></i>
+                <a href="#" data-scroll="message" class=""><i class="fas fa-circle"></i>
 
                 </a>
                 <span class="titles">The Message of Islam</span>
             </li>
             <li data-menuanchor="register">
-                <a href="#register"><i class="fas fa-moon"></i>
+                <a href="#register"><i class="fas fa-circle"></i>
                 </a>
                 <span class="titles">Islam in brief</span>
             </li>
             <li data-menuanchor="about-us">
-                <a href="#about-us"><i class="fas fa-envelope-square"></i>
+                <a href="#about-us"><i class="fas fa-circle"></i>
                 </a>
                 <span class="titles">One God, One Message</span>
             </li>
             <li data-menuanchor="contact">
-                <a href="#contact"><i class="fas fa-code-branch"></i>
+                <a href="#contact"><i class="fas fa-circle"></i>
                 </a>
                 <span class="titles">How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span>
             </li>
             <li data-menuanchor="contact">
-                <a href="#contact/message"><i class="fas fa-globe"></i>
+                <a href="#contact/message"><i class="fas fa-circle"></i>
                 </a>
 
                 <span class="titles">The universality of Islam (the Message)</span>
@@ -91,7 +92,7 @@
         <img class="bottom-left-test" src="img/art_c.png">
         <div class="container custome-row">
             <div class="row">
-                <div class="col-xs-12 text-center">
+                <div class="col-xs-12 ">
 
                     <div class="title animated wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s"
                          style="    display: inline-block; float: none; "><span class="left line">
@@ -104,11 +105,9 @@
                 </div>
             </div>
             <div class="">
+                <div id="divines" class="block">
                 <div class="row">
-                    <div class="col-xs-12 text-center">
-                        <span class="block">
-                                <span id="divines"></span>
-                                </span>
+                    <div class="col-xs-12 ">
                         <div class="heading-left animate showFromDown" data-animate="showFromDown"
                              data-delay="0.3">
                             <h2 class="start-part d-inline-block">Muhammad didn’t know that he would be a Prophet
@@ -145,7 +144,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 row-style">
                     <div class="col-md-8 col-sm-8 pull-right">
                         <div class="characters-text-box">
                             <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
@@ -175,7 +174,7 @@
                     <div class="col-md-4 col-sm-4 ">
                         <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
-                            <img src="img/hira-cave.png" alt="history">
+                            <img src="img/prophecy/0000.png" alt="history">
                         </div>
                     </div>
                 </div>
@@ -193,21 +192,10 @@
                                 relatives, helped the poor people and liked doing charity.
 
                             </p>
-                            <br>
-                            <!--                            <span class=" verse animate gray  showFromLeft col-sm-3 " data-animate="showFromLeft"-->
-                            <!--                                  data-delay="5">-->
-                            <!--                            This is the word Muhammad in Arabic designed by Artist Abdul Majid Al Noerat. It simulates-->
-                            <!--                            the climb of Muhammad on the mount of Noor (Light), and his striving to find about the One-->
-                            <!--                            God, the Creator and Lord of all beings</span>-->
-                            <!--                            <img src="img/moh.png" class="col-sm-3 animate  showFromRight" data-animate="showFromRight"-->
-                            <!--                                 data-delay="5">-->
-                            <br>
+                            <br><br>
 
                         </div>
-                        <div class="characters-text-box mt-50">
-                            <span class="block">
-                            <span id="divines"></span>
-                                </span>
+                        <div class="characters-text-box ">
                             <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
                                  data-delay="0.3">
                                 <h2 class="font-20">A divine revelation or satanic whisperings?</h2>
@@ -227,17 +215,14 @@
                     <div class="col-md-4 col-sm-4 ">
                         <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
-                            <img class="w-100" src="img/tt.png" alt="history">
+                            <img class="w-100" src="img/prophecy/2.png" alt="history">
                         </div>
                     </div>
 
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 row-style">
                     <div class="col-md-8 col-sm-8 pull-right">
                         <div class="characters-text-box">
-                            <span class="block">
-                            <span id="divines"></span>
-                                </span>
                             <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
                                  data-delay="0.3">
                                 <h2 class="font-20">You are God’s Messenger</h2>
@@ -266,7 +251,7 @@
                     <div class="col-md-4 col-sm-4 ">
                         <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                              data-delay="0.1">
-                            <img class="w-100" src="img/prophecy/God-Messenger.png" alt="history">
+                            <img class="w-100" src="img/prophecy/33.png" alt="history">
                         </div>
                     </div>
                 </div>
@@ -324,7 +309,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 row-style">
                     <div class="col-md-8 col-sm-8 pull-right">
                         <div class="characters-text-box">
                             <div class="heading-left animate showFromLeft" data-animate="showFromRight"
@@ -400,26 +385,26 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/1.png" alt="history">
+                            <img src="img/prophecy/44.png" alt="history">
                         </div>
                     </div>
                 </div>
+                </div>
                 <!-- Message section -->
-                <div class="row mt-50">
-                    <div class="col-xs-12 text-center">
-                        <span class="block">
-                                <span id="divines"></span>
-                                </span>
+                <div class="block" id="message">
+                <div class="row mt-50 ">
+                    <div class="col-xs-12 ">
+
                         <div class="heading-left animate showFromDown" data-animate="showFromDown"
                              data-delay="0.3">
-                            <h2 id="message" class="start-part d-inline-block">The Message of Islam
+                            <h2 class="start-part ">The Message of Islam
 
                                 <div class="dots"></div>
                             </h2>
                         </div>
                     </div>
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 ">
                     <div class="col-md-12">
                         <div class="characters-text-box ">
                             <div class="heading-left animate showFromRight " data-animate="showFromRight"
@@ -436,7 +421,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 row-style">
                     <div class="col-md-8 col-sm-8 pull-right">
                         <div class="characters-text-box">
                             <div class="heading-left animate showFromRight" data-animate="showFromRight"
@@ -501,7 +486,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 ">
                     <div class="col-md-8 col-sm-8">
                         <div class="characters-text-box ">
                             <div class="heading-left animate showFromRight" data-animate="showFromRight"
@@ -533,11 +518,11 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                     <div class="col-md-4 col-sm-4">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/prophecy/4.png" alt="history">
+                            <img src="img/prophecy/5151.png" alt="history">
                         </div>
                     </div>
                 </div>
-                <div class="row mt-50">
+                <div class="row mt-50 row-style">
                     <div class="col-md-8 col-sm-8 pull-right">
                         <div class="characters-text-box ">
                             <div class="heading-left animate showFromRight" data-animate="showFromRight"
@@ -569,7 +554,10 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                                 peace with the environment and the people.
                             </p>
                             <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
-                                It is interesting to know that in a Muslim society, people greet each other with the word “ Assalamo Alaykom” which means “peace be upon you” instead of the words “Hi”  or “Hello”.  The full version of this statement is “peace be upon you as well as Allah’s mercy and blessings”.
+                                It is interesting to know that in a Muslim society, people greet each other with the
+                                word “ Assalamo Alaykom” which means “peace be upon you” instead of the words “Hi” or
+                                “Hello”. The full version of this statement is “peace be upon you as well as Allah’s
+                                mercy and blessings”.
                             </p>
                         </div>
                     </div>
@@ -579,6 +567,38 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                             <img src="img/characters/1.png" alt="history">
                         </div>
                     </div>
+                </div>
+                <div class="row mt-50 ">
+                    <div class="col-md-8 col-sm-8">
+                        <div class="characters-text-box ">
+                            <div class="heading-left animate showFromRight" data-animate="showFromRight"
+                                 data-delay="1.3">
+                                <h2 class="font-20">Muslims or Muhammadans?</h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                Unlike the followers of other religions, the followers of Muhammad are not called
+                                Muhammadans. An adherent to Islam or the one who embraces it as a faith and a way of
+                                life is called a “Muslim” i.e. the one who believed in one God and submitted to Him.
+                            </p>
+                        </div>
+                        <div class="characters-text-box mt-50">
+                            <div class="heading-left animate showFromRight" data-animate="showFromRight"
+                                 data-delay="1.3">
+                                <h2 class="font-20">The six elements of the Islamic creed:</h2>
+                            </div>
+                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                The belief in One God requires the belief in His Angles, His Books, His Messengers as
+                                well as the belief in the Day of Judgment and the belief in God's Divine Pre-ordainment.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                             data-delay="0.1">
+                            <img src="img/characters/1.png" alt="history">
+                        </div>
+                    </div>
+                </div>
                 </div>
             </div>
     </section>
@@ -590,9 +610,22 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
     </script>
     <script type="text/javascript" src='js/functions.js'></script>
     <script>
-        $('html,body').animate({
-            scrollTop: $(window.location.hash).offset()
-        });
+
+        $(window).scroll(function () {
+
+            $('.block').each(function () {
+                if ($(window).scrollTop() > $(this).offset().top-20){
+                    // console.log($(this).attr('id'));
+                    var blockID = $(this).attr('id');
+
+                    $('#qmenu li a').removeClass('active');
+
+                    $('#qmenu li a[data-scroll="'+ blockID +'"]').addClass('active');
+
+                }
+            })
+
+        })
     </script>
 
 </body>

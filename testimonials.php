@@ -59,7 +59,7 @@
                         <h1>WHAT THEY<br>SAID ABOUT HIM</h1> <span class="right line">
                         <object id="pbuh01" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>
                         </span> </div>
-                    <p class="animate showFromRight " data-animate="showFromRight" data-delay="0.2" style="visibility: visible;">History has recorded Muhammad’s sublime and humane dealing with people. His call and teachings were based on amicability and fraternity. Adversity had no place in his conduct.</p>
+                    <p class="animated wow fadeInLeft " data-wow-delay="0.5s" data-wow-duration="1s">History has recorded Muhammad’s sublime and humane dealing with people. His call and teachings were based on amicability and fraternity. Adversity had no place in his conduct.</p>
                 </div>
             </div>
             <section class="testmonial-say qou-right  bg__section no__margin ">

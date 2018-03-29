@@ -50,6 +50,9 @@
 
     <!---->
     <div class="hosam">
+        <div class="testimonials-section bg-img">
+            <img class="top-right-test" src="img/art_c.png">
+            <img class="bottom-left-test" src="img/art_c.png">
     <div class="timeline1">
         <div style="position:relative;">
             <div class="containerTimeLine leftTimeLine animated wow fadeInLeft" data-wow-delay="0.4s"
@@ -753,6 +756,7 @@ The passing away of Muhammad</span><br><br>
     </div>
       </div> -->
     </div>
+        </div>
     </div>
 
     <?php include('footer.php') ?>

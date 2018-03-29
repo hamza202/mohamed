@@ -358,7 +358,7 @@ img {
     max-width: 1200px;
     margin: 0 auto;
     width:100%;
-    margin-top: 45px;
+    padding-top: 45px;
 }
 
 /* The actual timeline (the vertical ruler) */
