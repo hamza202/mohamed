@@ -73,7 +73,7 @@
                     <div class="col-md-6 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/1.png" alt="history">
+                            <img src="img/prophecy/mohamed1.png" alt="history">
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
@@ -98,34 +98,53 @@
                 </div>
                 </section>
                 <section>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
-                             data-delay="0.1">
-                            <img src="img/characters/2.jpg" alt="history">
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
-                                <h2>His nature</h2>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 ">
+                            <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                                 data-delay="0.1">
+                                <img src="img/prophecy/quraan2.png" alt="history">
                             </div>
-                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad was unfailingly cheerful, easy going by nature, and mild mannered. He never
-                                resorted to offensive speech or obscenities. He did not find fault with others nor did
-                                he overly praise the others.
-                            </p>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="characters-text-box">
+                                <div class="heading-left animate showFromLeft" data-animate="showFromRight"
+                                     data-delay="1.3">
+                                    <h2>His nature</h2>
+                                </div>
+                                <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                    Muhammad was unfailingly cheerful, easy going by nature, and mild mannered. He never
+                                    resorted to offensive speech or obscenities. He did not find fault with others nor did
+                                    he overly praise the others.
+                                </p>
+                            </div>
+                            <div class="characters-text-box">
+                                <div class="heading-left animate showFromLeft" data-animate="showFromRight"
+                                     data-delay="1.3">
+                                    <h2>The way he spoke </h2>
+                                </div>
+                                <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                    Muhammad did not speak unnecessarily and what he said was always to the point and
+                                    without any padding. His sayings were precise and concise having complete meaning in few
+                                    words. He spoke with excellence, and there was no excess in it and no abnormal brevity.
+                                    <br><br>
+                                    When he emphasized a point, he used to repeat it three times with a gesture. He spoke of
+                                    nothing unless he hoped a reward from God for it. He told his companions:
+
+                                </p>
+                                <span class="hadith verse animate showFromLeft" data-animate="showFromRight"
+                                      data-delay="3.3">
+                           "I am a guarantor for a house at the outskirts of  the Paradise for those who quit arguing even if they were right and I am a guarantor for a house in the middle of the Paradise for those who quit lying even if they were kidding and I am a guarantor for a house in the highest part in the Paradise for those who behave with good manners."
+                           <span class="refs">(Sahih Abu Dawood)</span> </span>
+                            </div>
                         </div>
                     </div>
-                </div>
                 </section>
                 <section class="bg_section">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/4.jpg" alt="history">
+                            <img src="img/characters/4.png" alt="history">
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
@@ -145,43 +164,13 @@
                     </div>
                 </div>
                 </section>
-                <section>
-                <div class="row">
-                    <div class="col-md-6 col-sm-6 ">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
-                             data-delay="0.1">
-                            <img src="img/characters/1.png" alt="history">
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
-                                <h2>The way he spoke </h2>
-                            </div>
-                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
-                                Muhammad did not speak unnecessarily and what he said was always to the point and
-                                without any padding. His sayings were precise and concise having complete meaning in few
-                                words. He spoke with excellence, and there was no excess in it and no abnormal brevity.
-                                <br><br>
-                                When he emphasized a point, he used to repeat it three times with a gesture. He spoke of
-                                nothing unless he hoped a reward from God for it. He told his companions:
 
-                            </p>
-                            <span class="hadith verse animate showFromLeft" data-animate="showFromRight"
-                                  data-delay="3.3">
-                           "I am a guarantor for a house at the outskirts of  the Paradise for those who quit arguing even if they were right and I am a guarantor for a house in the middle of the Paradise for those who quit lying even if they were kidding and I am a guarantor for a house in the highest part in the Paradise for those who behave with good manners."
-                           <span class="refs">(Sahih Abu Dawood)</span> </span>
-                        </div>
-                    </div>
-                </div>
-                </section>
-                <section class="bg_section">
+                <section>
                 <div class="row">
                     <div class="col-md-6 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
-                            <img src="img/characters/3.jpg" alt="history">
+                            <img src="img/characters/3.png" alt="history">
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
@@ -217,7 +206,7 @@
                     </div>
                 </div>
                 </section>
-                <section>
+                <section class="bg_section">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 ">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"

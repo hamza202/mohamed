@@ -518,10 +518,7 @@ img {
     z-index: 100;
     position: relative;
 }
-html , forlinediv{
-    background-image: url(../img/pattern1.png);
-    background-repeat: repeat 0 0;
-}
+
 
 @media only screen and (max-width: 540px) {
 .containerTimeLine::after{display: none;}

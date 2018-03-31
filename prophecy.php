@@ -95,8 +95,7 @@
                 <div class="row">
                     <div class="col-xs-12 ">
 
-                        <div class="title animated wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s"
-                             style="    display: inline-block; float: none; "><span class="left line">
+                        <div class="title"><span class="left line">
 
                         </span>
                             <p>Character</p>
@@ -109,28 +108,16 @@
             <div class="">
                 <div id="divines" class="block">
                     <section>
-                        <div class="row">
-                            <div class="col-xs-12 ">
-                                <div class="heading-left animate showFromDown" data-animate="showFromDown"
-                                     data-delay="0.3">
-                                    <h2 class="d-inline-block">Muhammad didn’t know that he would be a Prophet
-
-                                    </h2>
-                                </div>
-                            </div>
-                        </div>
                         <div class="row mt-50">
                             <div class="col-md-12">
                                 <div class="characters-text-box ">
 
-                                    <div class="heading-left animate showFromLeft" data-animate="showFromLeft"
-                                         data-delay="0.3">
-                                        <h2 class=" font-20 ">Muhammad didn’t know that he would be a Prophet
-
+                                    <div class="heading-left" >
+                                        <h2 class="d-inline-block">Muhammad didn’t know that he would be a Prophet
                                         </h2>
                                     </div>
 
-                                    <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                                    <p>
                                         He led an ethical and ordinary life. He was known for his fidelity, integrity
                                         and
                                         trustworthiness. He never worshipped idols when idol worship was rife in a

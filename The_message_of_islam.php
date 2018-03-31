@@ -53,10 +53,7 @@
                 <div class="row">
                     <div class="col-xs-12 ">
 
-                        <div class="title animated wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s"
-                             style="    display: inline-block; float: none; "><span class="left line">
-
-                        </span>
+                        <div class="title "><span class="left line"></span>
                             <p>Character</p>
                             <h1>Muhammad<br>& Prophecy </h1> <span class="right line">
                         <object id="pbuh01" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>
@@ -66,27 +63,16 @@
             </section>
             <div class="">
                 <!-- Message section -->
-                <div class="block mt-50" id="message">
-                    <section class="bg_section">
+                <div class="block" id="message">
+                    <section class="mt-50">
                         <div class="row">
-                            <div class="col-xs-12 ">
-
-                                <div class="heading-left animate showFromDown" data-animate="showFromDown"
-                                     data-delay="0.3">
+                        <div class="col-md-12">
+                            <div class="characters-text-box ">
+                                <div class="heading-left ">
                                     <h2>The Message of Islam
                                     </h2>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row">
-
-                        <div class="col-md-12">
-                            <div class="characters-text-box ">
-                                <div class="heading-left animate showFromRight " data-animate="showFromRight"
-                                     data-delay="1.3">
-                                    <h2 class="font-20">Islam in simple words:</h2>
-                                </div>
-                                <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                                <p>
                                     “Islam” means submission and devotion to One God. It is a religion of monotheism
                                     where
                                     the adherent to Islam believes that God is one and incomparable. He has no partners
@@ -101,7 +87,7 @@
                         </div>
                     </div>
                     </section>
-                    <section>
+                    <section class="bg_section">
                     <div class="row">
                         <div class="col-md-8 col-sm-8 pull-right">
                             <div class="characters-text-box">
@@ -173,7 +159,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                     </section>
-                    <section class="bg_section">
+                    <section >
                     <div class="row">
                         <div class="col-md-8 col-sm-8">
                             <div class="characters-text-box ">
@@ -213,7 +199,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                     </section>
-                    <section>
+                    <section class="bg_section">
                     <div class="row">
                         <div class="col-md-8 col-sm-8 pull-right">
                             <div class="characters-text-box ">
@@ -266,7 +252,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                     </section>
-                    <section class="bg_section">
+                    <section >
                     <div class="row">
                         <div class="col-md-8 col-sm-8">
                             <div class="characters-text-box ">
