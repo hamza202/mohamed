@@ -66,8 +66,8 @@
                         <div class="inner-menu prophecy">
                             <h2>Prophecy</h2>
                             <ul class="nav">
-                                <li><a href="prophecy.php#divines"><span>Muhammad and Divine revelation</span></a></li>
-                                <li><a href="prophecy.php#message"><span>The Message of Islam</span></a></li>
+                                <li><a href="prophecy.php"><span>Muhammad and Divine revelation</span></a></li>
+                                <li><a href="The_message_of_islam.php"><span>The Message of Islam</span></a></li>
                                 <li><a href=""><span>Islam in brief</span></a></li>
                                 <li><a href=""><span>One God, One Message</span></a></li>
                                 <li><a href=""><span>How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span></a></li>

@@ -23,43 +23,43 @@
     <?php include('header.php') ?>
 
     <!-- BEGIN OF Quick nav icons at left -->
-    <nav class="quick-link count-6 nav-left">
-        <ul id="qmenu">
-            <li>
-                <a data-scroll="divines" href="#" class=""><i class="fas fa-circle"></i>
-
-                </a>
-                <span class="titles">Muhammad and Divine revelation</span>
-            </li>
-            <li>
-                <a href="#" data-scroll="message" class=""><i class="fas fa-circle"></i>
-
-                </a>
-                <span class="titles">The Message of Islam</span>
-            </li>
-            <li data-menuanchor="register">
-                <a href="#register"><i class="fas fa-circle"></i>
-                </a>
-                <span class="titles">Islam in brief</span>
-            </li>
-            <li data-menuanchor="about-us">
-                <a href="#about-us"><i class="fas fa-circle"></i>
-                </a>
-                <span class="titles">One God, One Message</span>
-            </li>
-            <li data-menuanchor="contact">
-                <a href="#contact"><i class="fas fa-circle"></i>
-                </a>
-                <span class="titles">How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span>
-            </li>
-            <li data-menuanchor="contact">
-                <a href="#contact/message"><i class="fas fa-circle"></i>
-                </a>
-
-                <span class="titles">The universality of Islam (the Message)</span>
-            </li>
-        </ul>
-    </nav>
+<!--    <nav class="quick-link count-6 nav-left">-->
+<!--        <ul id="qmenu">-->
+<!--            <li>-->
+<!--                <a data-scroll="divines" href="#" class=""><i class="fas fa-circle"></i>-->
+<!---->
+<!--                </a>-->
+<!--                <span class="titles">Muhammad and Divine revelation</span>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="#" data-scroll="message" class=""><i class="fas fa-circle"></i>-->
+<!---->
+<!--                </a>-->
+<!--                <span class="titles">The Message of Islam</span>-->
+<!--            </li>-->
+<!--            <li data-menuanchor="register">-->
+<!--                <a href="#register"><i class="fas fa-circle"></i>-->
+<!--                </a>-->
+<!--                <span class="titles">Islam in brief</span>-->
+<!--            </li>-->
+<!--            <li data-menuanchor="about-us">-->
+<!--                <a href="#about-us"><i class="fas fa-circle"></i>-->
+<!--                </a>-->
+<!--                <span class="titles">One God, One Message</span>-->
+<!--            </li>-->
+<!--            <li data-menuanchor="contact">-->
+<!--                <a href="#contact"><i class="fas fa-circle"></i>-->
+<!--                </a>-->
+<!--                <span class="titles">How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span>-->
+<!--            </li>-->
+<!--            <li data-menuanchor="contact">-->
+<!--                <a href="#contact/message"><i class="fas fa-circle"></i>-->
+<!--                </a>-->
+<!---->
+<!--                <span class="titles">The universality of Islam (the Message)</span>-->
+<!--            </li>-->
+<!--        </ul>-->
+<!--    </nav>-->
     <!-- END OF Quick nav icons at left -->
 
     <div class="kode_sab_banner_wrap them_overlay header-style-1">
@@ -688,24 +688,24 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
 
         </script>
         <script type="text/javascript" src='js/functions.js'></script>
-        <script>
-
-            $(window).scroll(function () {
-
-                $('.block').each(function () {
-                    if ($(window).scrollTop() > $(this).offset().top - 20) {
-                        // console.log($(this).attr('id'));
-                        var blockID = $(this).attr('id');
-
-                        $('#qmenu li a').removeClass('active');
-
-                        $('#qmenu li a[data-scroll="' + blockID + '"]').addClass('active');
-
-                    }
-                })
-
-            })
-        </script>
+<!--        <script>-->
+<!---->
+<!--            $(window).scroll(function () {-->
+<!---->
+<!--                $('.block').each(function () {-->
+<!--                    if ($(window).scrollTop() > $(this).offset().top - 20) {-->
+<!--                        // console.log($(this).attr('id'));-->
+<!--                        var blockID = $(this).attr('id');-->
+<!---->
+<!--                        $('#qmenu li a').removeClass('active');-->
+<!---->
+<!--                        $('#qmenu li a[data-scroll="' + blockID + '"]').addClass('active');-->
+<!---->
+<!--                    }-->
+<!--                })-->
+<!---->
+<!--            })-->
+<!--        </script>-->
 
 </body>
 

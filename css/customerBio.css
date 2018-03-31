@@ -576,9 +576,10 @@ html , forlinediv{
 .hosam .portfolio-name a {color:#000;
 font-size:25px;
 }
-.hosam .portfolio-category  {color:#ccc;
+.hosam .portfolio-category  {
+    color:#ccc;
     font-size:18px;
-    }
+}
     /**************************************/
     @import url("https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One");
     .timeline {
