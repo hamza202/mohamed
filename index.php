@@ -304,7 +304,7 @@
 
         <script type="text/javascript" src='js/earth.js'></script>
 
-        <script>
+        <script type="text/javascript">
             (function() {
                 document.body.classList.remove('loading');
 

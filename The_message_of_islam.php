@@ -247,7 +247,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         <div class="col-md-4 col-sm-4">
                             <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                                  data-delay="0.1">
-                                <img src="img/characters/1.png" alt="history">
+                                <img src="img/prophecy/2225.png" alt="history">
                             </div>
                         </div>
                     </div>
@@ -282,7 +282,7 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         <div class="col-md-4 col-sm-4">
                             <div class="characters-frame animate showFromRight " data-animate="showFromRight"
                                  data-delay="0.1">
-                                <img src="img/characters/1.png" alt="history">
+                                <img src="img/prophecy/2552.png" alt="history">
                             </div>
                         </div>
                     </div>
@@ -290,8 +290,6 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                 </div>
             </div>
         </div>
-
-
         <?php include('footer.php') ?>
         <script type="text/javascript" src='js/functions.js'></script>
 

@@ -171,6 +171,7 @@ body {
         height: auto;
     }
     div#rev-1,
+    div.rev-1,
     div#rev-2 {
         display: none;
     }

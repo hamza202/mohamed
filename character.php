@@ -70,13 +70,13 @@
             <div class="characters-section">
                 <section class="bg_section ">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 pull-right">
+                    <div class="col-md-4 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/prophecy/mohamed1.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-8 col-sm-6">
                         <div class="characters-text-box">
                             <div class="heading-left animate showFromLeft" data-animate="showFromRight"
                                  data-delay="1.3">
@@ -99,13 +99,13 @@
                 </section>
                 <section>
                     <div class="row">
-                        <div class="col-md-6 col-sm-6 ">
+                        <div class="col-md-4 col-sm-6 ">
                             <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                                  data-delay="0.1">
                                 <img src="img/prophecy/quraan2.png" alt="history">
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-8 col-sm-6">
                             <div class="characters-text-box">
                                 <div class="heading-left animate showFromLeft" data-animate="showFromRight"
                                      data-delay="1.3">
@@ -141,13 +141,13 @@
                 </section>
                 <section class="bg_section">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 pull-right">
+                    <div class="col-md-4 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/characters/4.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-8 col-sm-6">
                         <div class="characters-text-box">
                             <div class="heading-left animate showFromLeft" data-animate="showFromRight"
                                  data-delay="1.3">
@@ -167,16 +167,15 @@
 
                 <section>
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 pull-right">
+                    <div class="col-md-4 col-sm-6 ">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/characters/3.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-8 col-sm-6">
                         <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
+                            <div class="heading-left animate showFromLeft" data-animate="showFromRight" data-delay="1.3">
                                 <h2>His interactions with people</h2>
                             </div>
                             <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
@@ -208,13 +207,13 @@
                 </section>
                 <section class="bg_section">
                 <div class="row">
-                    <div class="col-md-6 col-sm-6 ">
+                    <div class="col-md-4 col-sm-6 pull-right">
                         <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
                              data-delay="0.1">
                             <img src="img/characters/1.png" alt="history">
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-8 col-sm-6">
                         <div class="characters-text-box">
                             <div class="heading-left animate showFromLeft" data-animate="showFromRight"
                                  data-delay="1.3">
@@ -261,9 +260,6 @@
     </div>
 
     <?php include('footer.php') ?>
-    <script>
-
-    </script>
     <script type="text/javascript" src='js/functions.js'></script>
 
 
