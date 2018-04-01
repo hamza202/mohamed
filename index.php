@@ -3,7 +3,7 @@
 
 <?php include ('style.php') ?>
 
-<body class="loaded" style="height: 100%; overflow: auto; overflow-x: hidden!important;">
+<body class="loaded color-option" style="height: 100%; overflow: auto; overflow-x: hidden!important;">
     <div class="loader">
         <div class="preloader">
             <div class="bg mesh_loader"></div>

@@ -3,7 +3,7 @@
 
 <?php include('style.php') ?>
 
-<body class="loaded">
+<body class="loaded color-option">
 <div class="loader">
     <div class="preloader">
         <div class="bg mesh_loader"></div>
@@ -81,7 +81,7 @@
 
         <div class="project-details d-flex align-items-end">
             <div class="hero-bg project-details-thumb animate showFromRight"
-                 style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
+                 style="background-image:url(img/1.png)" data-animate="showFromRight" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
@@ -107,7 +107,7 @@
         <div class="space-100"></div>
         <div class="project-details d-flex align-items-end" style="min-height:620px;">
             <div class="hero-bg project-details-thumb project-details-left animate showFromLeft"
-                 style="background-image:url(img/hero-bg2.jpg) ; " data-animate="showFromLeft" data-delay="0.1"></div>
+                 style="background-image:url(img/2.png) ; " data-animate="showFromLeft" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-8">
@@ -133,7 +133,7 @@
         <div class="space-100"></div>
         <div class="project-details d-flex align-items-end" style="min-height:600px;">
             <div class="hero-bg project-details-thumb animate showFromRight"
-                 style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
+                 style="background-image:url(img/3.png)" data-animate="showFromRight" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8" style="maring-top:50px">
@@ -163,7 +163,7 @@ treated as chattel).
         <div class="space-100"></div>
         <div class="project-details d-flex align-items-end" style="min-height:620px;">
             <div class="hero-bg project-details-thumb project-details-left animate showFromLeft"
-                 style="background-image:url(img/hero-bg2.jpg)" data-animate="showFromLeft" data-delay="0.1"></div>
+                 style="background-image:url(img/4.png)" data-animate="showFromLeft" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-8">
@@ -199,7 +199,7 @@ The Quran, 17:32
 <div class="space-100"></div>
         <div class="project-details d-flex align-items-end" style="min-height:700px;">
             <div class="hero-bg project-details-thumb animate showFromRight"
-                 style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
+                 style="background-image:url(img/5.png)" data-animate="showFromRight" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
@@ -234,7 +234,7 @@ pornography.
         <div class="space-100"></div>
         <div class="project-details d-flex align-items-end" style="min-height:940px;">
             <div class="hero-bg project-details-thumb project-details-left animate showFromLeft"
-                 style="background-image:url(img/hero-bg2.jpg)" data-animate="showFromLeft" data-delay="0.1"></div>
+                 style="background-image:url(img/6.png)" data-animate="showFromLeft" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-8">
@@ -291,7 +291,7 @@ heart and grant him chastity".
 <div class="space-100"></div>
 <div class="project-details d-flex align-items-end" style="min-height:900px;">
             <div class="hero-bg project-details-thumb animate showFromRight"
-                 style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
+                 style="background-image:url(img/7.png)" data-animate="showFromRight" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
@@ -331,7 +331,7 @@ work and participate in the social and political life.
         <div class="space-100"></div>
         <div class="project-details d-flex align-items-end" style="min-height:570px;">
             <div class="hero-bg project-details-thumb project-details-left animate showFromLeft"
-                 style="background-image:url(img/hero-bg2.jpg)" data-animate="showFromLeft" data-delay="0.1"></div>
+                 style="background-image:url(img/8.png)" data-animate="showFromLeft" data-delay="0.1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-4 col-md-8">

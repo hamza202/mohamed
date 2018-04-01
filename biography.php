@@ -8,7 +8,7 @@
         font-size:18px;
     }
 </style>
-<body class="loaded">
+<body class="loaded color-option">
 <div class="loader">
     <div class="preloader">
         <div class="bg mesh_loader"></div>

@@ -3,7 +3,7 @@
 
 <?php include('style.php') ?>
 
-<body class="loaded">
+<body class="loaded color-option">
 <div class="loader">
     <div class="preloader">
         <div class="bg mesh_loader"></div>
@@ -131,7 +131,7 @@
                                     nothing unless he hoped a reward from God for it. He told his companions:
 
                                 </p>
-                                <span class="hadith verse animate showFromLeft" data-animate="showFromRight"
+                                <span class="hadith ver-2 verse animate showFromLeft" data-animate="showFromRight"
                                       data-delay="3.3">
                            "I am a guarantor for a house at the outskirts of  the Paradise for those who quit arguing even if they were right and I am a guarantor for a house in the middle of the Paradise for those who quit lying even if they were kidding and I am a guarantor for a house in the highest part in the Paradise for those who behave with good manners."
                            <span class="refs">(Sahih Abu Dawood)</span> </span>
@@ -239,7 +239,7 @@
                                 His house was but a hut with walls of unbaked clay and a roof of palm leaves covered by
                                 camel skin.
                             </p>
-                            <span class="hadith verse animate showFromLeft" data-animate="showFromRight"
+                            <span class="hadith ver-2 verse animate showFromLeft" data-animate="showFromRight"
                                   data-delay="3.3">
                                 Muhammad said: "What have I to do with worldly things? My connection with the
                                 world is like that of a traveler resting for a while underneath the shade of a tree
@@ -258,7 +258,7 @@
 
             </div>
     </div>
-
+    </div>
     <?php include('footer.php') ?>
     <script type="text/javascript" src='js/functions.js'></script>
 

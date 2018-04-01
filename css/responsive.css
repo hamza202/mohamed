@@ -487,6 +487,9 @@ body {
         border-top: 2px dashed #29aae1;
         margin-top: 28px;
     }
+    .flix-lg .flix{
+        display: block !important;
+    }
     .testmonial-say.qou-right p::after{
         display: none;
     }

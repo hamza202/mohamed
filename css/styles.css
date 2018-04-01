@@ -1705,7 +1705,7 @@ section.parl {
     display: block;
     margin: 0 auto;
     padding: 2px;
-    border: 2px dashed #d8df21;
+    border: 2px dashed #98a5b7;
     border-radius: 4px;
 }
 
@@ -1714,7 +1714,8 @@ section.parl {
 }
 
 .testmonial-say .border-left {
-    border-left: 2px dashed #29aae1;
+    border-left: 2px dashed #b0b1b3;
+    overflow: hidden;
 }
 
 .testmonial-say {
@@ -1732,14 +1733,14 @@ section.testmonial-say {
     color: #02224f;
     font-weight: 900;
     font-size: 21px;
-    text-align: center;
-    margin-bottom: 20px;
+    text-align: left;
+    margin-bottom: 7px;
 }
 
 .test-content span {
     display: block;
     margin-top: 15px;
-    border-left: 2px solid #02224f;
+    /*border-left: 2px solid #02224f;*/
     padding: 5px;
     line-height: 20px;
     /*border-right: 2px solid #02224f;*/
@@ -1810,32 +1811,32 @@ section.testmonial-say {
     position: relative;
 }
 
-.testmonial-say p::after {
-    content: '{';
-    font-size: 184px;
-    position: absolute;
-    left: -48px;
-    top: 50%;
-    -webkit-transform: translate(-50%, -57%);
-    -ms-transform: translate(-50%, -57%);
-    transform: translate(-50%, -57%);
-    color: #884702;
-    font-family: initial;
-}
+/*.testmonial-say p::after {*/
+    /*content: '{';*/
+    /*font-size: 184px;*/
+    /*position: absolute;*/
+    /*left: -48px;*/
+    /*top: 50%;*/
+    /*-webkit-transform: translate(-50%, -57%);*/
+    /*-ms-transform: translate(-50%, -57%);*/
+    /*transform: translate(-50%, -57%);*/
+    /*color: #884702;*/
+    /*font-family: initial;*/
+/*}*/
 
-.testmonial-say.qou-right p::after {
-    content: '}';
-    font-size: 184px;
-    position: absolute;
-    right: -127px;
-    left: auto;
-    top: 50%;
-    -webkit-transform: translate(-50%, -57%);
-    -ms-transform: translate(-50%, -57%);
-    transform: translate(-50%, -57%);
-    color: #884702;
-    font-family: initial;
-}
+/*.testmonial-say.qou-right p::after {*/
+    /*content: '}';*/
+    /*font-size: 184px;*/
+    /*position: absolute;*/
+    /*right: -127px;*/
+    /*left: auto;*/
+    /*top: 50%;*/
+    /*-webkit-transform: translate(-50%, -57%);*/
+    /*-ms-transform: translate(-50%, -57%);*/
+    /*transform: translate(-50%, -57%);*/
+    /*color: #884702;*/
+    /*font-family: initial;*/
+/*}*/
 
 .testimonials-section {
     position: relative;
@@ -2549,4 +2550,10 @@ h3.h3-costume{
 #divines section:first-child
 ,#message section:first-child{
     padding-top: 0;
+}
+.ver-2 .refs{
+    color: #29aae1 !important;
+}
+.hadith.ver-2{
+    color: #000;
 }

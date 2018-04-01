@@ -3,7 +3,7 @@
 
 <?php include('style.php') ?>
 
-<body class="loaded">
+<body class="loaded color-option">
 <div class="loader">
     <div class="preloader">
         <div class="bg mesh_loader"></div>
@@ -501,7 +501,6 @@
             //                     contentEl.style.opacity = 1;
             //                     scrollElemToWatch_5.classList.add('dual__content--show');
             //                     //$('.content03.animate').addClass('in').css('visibility', 'visible');
-            //
             //                 }
             //             }
             //         });
@@ -527,11 +526,9 @@
             //                     contentEl.style.opacity = 1;
             //                     scrollElemToWatch_6.classList.add('dual__content--show');
             //                     //$('.content03.animate').addClass('in').css('visibility', 'visible');
-            //
             //                 }
             //             }
             //         });
-            //
             //     watcher_6.enterViewport(function() {
             //         rev6.reveal();
             //         //rev5.destroy();
