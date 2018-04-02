@@ -63,7 +63,7 @@
             </div>
             <div class="">
                 <div class="row ">
-                    <div class="col-md-12">
+                    <div class="col-md-10">
                         <div class="characters-text-box ">
 
                             <p class="animated wow fadeInUp" data-wow-delay="0.8" data-wow-duration="0.8s">
@@ -79,7 +79,7 @@
             </div>
         </div>
 
-        <div class="project-details d-flex align-items-end">
+        <div class="project-details d-flex align-items-end mt-100">
             <div class="hero-bg project-details-thumb animate showFromRight"
                  style="background-image:url(img/1.png)" data-animate="showFromRight" data-delay="0.1"></div>
             <div class="container">
@@ -808,7 +808,7 @@ he divorced any of his wives.
 
 
 <div class="space-100"></div>
-<div class="project-details d-flex align-items-end" style="min-height:900px;">
+<div class="project-details d-flex align-items-end " style="min-height:900px;">
             <div class="hero-bg project-details-thumb animate showFromRight"
                  style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
             <div class="container">
@@ -857,59 +857,61 @@ away, none of them remarried.
                 </div>
             </div>
         </div>
-<!--
-<div class="space-100"></div>
-<div class="project-details d-flex align-items-end">
-            <div class="hero-bg project-details-thumb animate showFromRight"
-                 style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8">
-                        <div class="hero-caption white-bg animate showFromLeft" data-animate="showFromLeft"
-                             data-delay="0.1">
-                            <h1 class="animate showFromLeft" data-animate="showFromLeft" data-delay="5">No gender
-                                discrimination:</h1>
-                            <p class="animate showFromLeft" data-animate="showFromLeft" data-delay="7">
-                                Muhammad condemned discrimination between male and female children and taught his
-                                companions to love their children and raise them properly regardless of their sex. In
-                                fact, he emphasized giving more care and attention to female children until they grow up
-                                and get married. Muhammad said:
-                            </p>
-                            <span class="hadith verse animate showFromDown " data-animate="showFromDown"
-                                  data-delay="8">
-                            “Women are the twin halves of men.”
-                            <span class="refs"> (Tirmithi, 1/154, 113)</span> </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <div class="space-100"></div>
+
+        <!--
         <div class="space-100"></div>
         <div class="project-details d-flex align-items-end">
-            <div class="hero-bg project-details-thumb project-details-left animate showFromLeft"
-                 style="background-image:url(img/hero-bg2.jpg)" data-animate="showFromLeft" data-delay="0.1"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-offset-4 col-md-8">
-                        <div class="hero-caption white-bg animate showFromRight" data-animate="showFromRight"
-                             data-delay="0.1">
-                            <h1 class="animate showFromRight" data-animate="showFromRight" data-delay="5">Women inherit
-                                like men:</h1>
-                            <p class="animate showFromRight" data-animate="showFromRight" data-delay="8">
-                                Before Islam, women had no right to inherit. Muhammad successfully changed this custom.
-                                Females gained the right to inherit like males. However, Muhammad did not create the
-                                Islamic inheritance system, but he conveyed God’s Words (preserved in the Quran) which
-                                stipulate the portions for each individual (male and female) eligible to inherit.
-                            </p>
-                            <span class="hadith verse animate showFromDown " data-animate="showFromDown"
-                                  data-delay="8">
-                            The word "Muhammad" in Arabic calligraphy being designed in an artistic and symmetrical way. The actual word looks like this . Letters M and H which form the first half of the word "Muhammad" are symmetrical with letters M and D which form the second half of the word "Muhammad" in Arabic
-                           </span>
+                    <div class="hero-bg project-details-thumb animate showFromRight"
+                         style="background-image:url(img/hero-bg.jpg)" data-animate="showFromRight" data-delay="0.1"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="hero-caption white-bg animate showFromLeft" data-animate="showFromLeft"
+                                     data-delay="0.1">
+                                    <h1 class="animate showFromLeft" data-animate="showFromLeft" data-delay="5">No gender
+                                        discrimination:</h1>
+                                    <p class="animate showFromLeft" data-animate="showFromLeft" data-delay="7">
+                                        Muhammad condemned discrimination between male and female children and taught his
+                                        companions to love their children and raise them properly regardless of their sex. In
+                                        fact, he emphasized giving more care and attention to female children until they grow up
+                                        and get married. Muhammad said:
+                                    </p>
+                                    <span class="hadith verse animate showFromDown " data-animate="showFromDown"
+                                          data-delay="8">
+                                    “Women are the twin halves of men.”
+                                    <span class="refs"> (Tirmithi, 1/154, 113)</span> </span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>-->
+                <div class="space-100"></div>
+                <div class="project-details d-flex align-items-end">
+                    <div class="hero-bg project-details-thumb project-details-left animate showFromLeft"
+                         style="background-image:url(img/hero-bg2.jpg)" data-animate="showFromLeft" data-delay="0.1"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-offset-4 col-md-8">
+                                <div class="hero-caption white-bg animate showFromRight" data-animate="showFromRight"
+                                     data-delay="0.1">
+                                    <h1 class="animate showFromRight" data-animate="showFromRight" data-delay="5">Women inherit
+                                        like men:</h1>
+                                    <p class="animate showFromRight" data-animate="showFromRight" data-delay="8">
+                                        Before Islam, women had no right to inherit. Muhammad successfully changed this custom.
+                                        Females gained the right to inherit like males. However, Muhammad did not create the
+                                        Islamic inheritance system, but he conveyed God’s Words (preserved in the Quran) which
+                                        stipulate the portions for each individual (male and female) eligible to inherit.
+                                    </p>
+                                    <span class="hadith verse animate showFromDown " data-animate="showFromDown"
+                                          data-delay="8">
+                                    The word "Muhammad" in Arabic calligraphy being designed in an artistic and symmetrical way. The actual word looks like this . Letters M and H which form the first half of the word "Muhammad" are symmetrical with letters M and D which form the second half of the word "Muhammad" in Arabic
+                                   </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
 
 
 

@@ -93,7 +93,7 @@
                         <div class="inner-menu HumanRights">
                             <h2>Human rights</h2>
                             <ul class="nav">
-                                <li><a href=""><span>Freedom and equality of mankind.</span></a></li>
+                                <li><a href="human-freedom.php"><span>Freedom and equality of mankind.</span></a></li>
                                 <li><a href=""><span></span>Rules of justice and protection of human rights.</a></li>
                                 <li><a href=""><span></span>Sanctity &amp; inviolability of human lives and property.</a></li>
                             </ul>
@@ -103,7 +103,7 @@
                         <div class="inner-menu environment">
                             <h2>Environment</h2>
                             <ul class="nav">
-                                <li><a href=""><span>The call for a green world. Adding value to the Environment.</span></a></li>
+                                <li><a href="environment.php"><span>The call for a green world. Adding value to the Environment.</span></a></li>
                                 <li><a href=""><span></span>The preservation of natural resources.</a></li>
                                 <li><a href=""><span></span>Ethical treatment of animals and Halal food.</a></li>
                             </ul>

@@ -14,6 +14,4 @@
     <link rel="stylesheet" type="text/css" href="./css/responsive.css">
     <link rel="stylesheet" type="text/css" href="./css/fontawesome-all.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
-    <link href="css/plugins.css" media="all" rel="stylesheet" type="text/css">
-    <link href="css/human.css" media="all" rel="stylesheet" type="text/css"><!-- style end -->
 </head>

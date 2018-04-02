@@ -2557,3 +2557,28 @@ h3.h3-costume{
 .hadith.ver-2{
     color: #000;
 }
+.parallax-img{
+    transition: all 0.3s;
+    min-height: 400px;
+    z-index: 10;
+    background: transparent;
+
+}
+.bg-color-non.bg_section:after{
+    background: none;
+}
+.sec-box{
+    box-shadow: 1px 0 18px 2px rgba(0, 0, 0, 0.2);
+}
+@media (min-width: 992px) {
+    .col-md-offset-1.of-right {
+        margin-right: 8.33333333%;
+        margin-left: 0;
+    }
+}
+.mt-100{
+ margin-top: 100px;
+}
+.mb-100{
+    margin-bottom: 100px;
+}

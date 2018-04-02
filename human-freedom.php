@@ -33,7 +33,7 @@
                             <ul class="list-inline">
                                 <li><a href="index.php">Home</a></li>
                                 <li><i class="fa fa-angle-right"></i></li>
-                                <li><p>Muhammad's Character</p></li>
+                                <li><p>Freedom</p></li>
                             </ul>
                         </div>
                         <div class="col-sm-6 text-right">
@@ -49,7 +49,6 @@
 
     <div class="testimonials-section bg-img character" style="display: inline-block; width: 100%">
         <img class="top-right-test" src="img/art_c.png">
-        <img class="bottom-left-test" src="img/art_c.png">
         <div class=" custome-row">
             <section class="pt-0">
             <div class="row">
@@ -63,15 +62,123 @@
                 </div>
             </div>
             </section>
-            <div class="characters-section">
 
-            </div>
+            <section class="bg_section p-non bg-color-non sec-box mt-50">
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft " data-animate="showFromLeft" data-delay="1.3">
+                                <h2>What did he look like?</h2>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromRight" data-delay="3.3">
+                                Muhammad was an Arab of noble lineage with a white complexion and a rosy tinge. He was a
+                                little taller than average and well built with broad shoulders. His belly never
+                                protruded out from his chest. He walked briskly and firmly. Muhammad’s companions
+                                described him as a handsome person with prominent forehead, high tipped nose, long
+                                eyelashes, large black eyes with well set teeth and a pleasant smile. He had slightly
+                                curly hair and a thick beard. His hair was black but included few white hairs. His
+                                companions indicated that he had a friendly bright face that looked like a full moon. He
+                                did not laugh loudly; his laugh was mostly a smile that would show his teeth a bit like
+                                hailstones. His cheerfulness and open personality were felt by all people.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div  data-parallax="scroll" data-image-src="img/human/getStart.jpg" class="parallax-img text-center">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="p-non mt-50">
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1 pull-right of-right">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft " data-animate="showFromLeft" data-delay="1.3">
+                                <h2>What did he look like?</h2>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromRight" data-delay="3.3">
+                                Muhammad was an Arab of noble lineage with a white complexion and a rosy tinge. He was a
+                                little taller than average and well built with broad shoulders. His belly never
+                                protruded out from his chest. He walked briskly and firmly. Muhammad’s companions
+                                described him as a handsome person with prominent forehead, high tipped nose, long
+                                eyelashes, large black eyes with well set teeth and a pleasant smile. He had slightly
+                                curly hair and a thick beard. His hair was black but included few white hairs. His
+                                companions indicated that he had a friendly bright face that looked like a full moon. He
+                                did not laugh loudly; his laugh was mostly a smile that would show his teeth a bit like
+                                hailstones. His cheerfulness and open personality were felt by all people.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div  data-parallax="scroll" data-image-src="img/human/getStart.jpg" class="parallax-img text-center">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg_section p-non bg-color-non sec-box mt-50">
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft " data-animate="showFromLeft" data-delay="1.3">
+                                <h2>What did he look like?</h2>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromRight" data-delay="3.3">
+                                Muhammad was an Arab of noble lineage with a white complexion and a rosy tinge. He was a
+                                little taller than average and well built with broad shoulders. His belly never
+                                protruded out from his chest. He walked briskly and firmly. Muhammad’s companions
+                                described him as a handsome person with prominent forehead, high tipped nose, long
+                                eyelashes, large black eyes with well set teeth and a pleasant smile. He had slightly
+                                curly hair and a thick beard. His hair was black but included few white hairs. His
+                                companions indicated that he had a friendly bright face that looked like a full moon. He
+                                did not laugh loudly; his laugh was mostly a smile that would show his teeth a bit like
+                                hailstones. His cheerfulness and open personality were felt by all people.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div  data-parallax="scroll" data-image-src="img/human/getStart.jpg" class="parallax-img text-center">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="p-non mt-50">
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1 pull-right of-right">
+                        <div class="characters-text-box">
+                            <div class="heading-left animate showFromLeft " data-animate="showFromLeft" data-delay="1.3">
+                                <h2>What did he look like?</h2>
+                            </div>
+                            <p class="animate showFromDown" data-animate="showFromRight" data-delay="3.3">
+                                Muhammad was an Arab of noble lineage with a white complexion and a rosy tinge. He was a
+                                little taller than average and well built with broad shoulders. His belly never
+                                protruded out from his chest. He walked briskly and firmly. Muhammad’s companions
+                                described him as a handsome person with prominent forehead, high tipped nose, long
+                                eyelashes, large black eyes with well set teeth and a pleasant smile. He had slightly
+                                curly hair and a thick beard. His hair was black but included few white hairs. His
+                                companions indicated that he had a friendly bright face that looked like a full moon. He
+                                did not laugh loudly; his laugh was mostly a smile that would show his teeth a bit like
+                                hailstones. His cheerfulness and open personality were felt by all people.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div  data-parallax="scroll" data-image-src="img/human/getStart.jpg" class="parallax-img text-center">
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </div>
 
     <?php include('footer.php') ?>
     <script type="text/javascript" src='js/functions.js'></script>
+    <script>
+        $('.parallax-img').parallax();
 
+    </script>
 
 </body>
 
