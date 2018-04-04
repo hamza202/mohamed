@@ -22,7 +22,6 @@
 <div id="wrapper" class="main-wrap">
     <?php include('header.php') ?>
 
-
     <div class="kode_sab_banner_wrap them_overlay header-style-1">
         <div class="banner">
             <div class="banner-content">
@@ -46,14 +45,13 @@
         </div>
     </div>
 
-
     <div class="testimonials-section bg-img character" style="display: inline-block; width: 100%">
         <img class="top-right-test" src="img/art_c.png">
         <img class="bottom-left-test" src="img/art_c.png">
         <div class=" custome-row">
             <section class="pt-0">
             <div class="row">
-                <div class="col-xs-12">
+                <div class="col-md-10">
                     <div class="title animated wow fadeInLeft"  data-wow-delay="0.5s" data-wow-duration="1s"><span class="left line"></span>
                         <p>Character</p>
                         <h1>Muhammad's<br>Character </h1> <span class="right line">
@@ -259,6 +257,7 @@
             </div>
     </div>
     </div>
+</div>
     <?php include('footer.php') ?>
     <script type="text/javascript" src='js/functions.js'></script>
 

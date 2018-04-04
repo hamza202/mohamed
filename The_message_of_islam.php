@@ -159,6 +159,8 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                         </div>
                     </div>
                     </section>
+
+
                     <section >
                     <div class="row">
                         <div class="col-md-8 col-sm-8">
@@ -289,6 +291,312 @@ He is Allah; the Creator, the Maker, the Fashioner: His are the most beautiful n
                     </section>
                 </div>
             </div>
+
+
+
+            <section class="bg_section">
+            <div class="row">
+                <div class="col-md-8 col-sm-8 pull-right">
+                    <div class="characters-text-box">
+                        <div class="heading-left animate showFromRight" data-animate="showFromRight"
+                             data-delay="1.3">
+                            <h2 class="font-20">Pillars of Islam, practicing the Islamic faith </h2>
+                        </div>
+                        <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                          The Islamic religion is based on five pillars that a Muslim must perform.
+                        </p>
+
+
+                               <table style="width:600px;" class="table merciful animate showFromDown" data-animate="showFromDown"
+                                      data-delay="3.3">
+                                 <tbody>
+                                   <tr>
+                                     <th scope="row">1</th>
+                                     <td>Shahada </td>
+                                     <td>
+Uttering (verbally saying) the creed of Islam (there is no God but Allah and Muhammad is a messenger of Allah)
+                                      </td>
+                                   </tr>
+                                   <tr>
+                                     <th scope="row">2</th>
+                                     <td>Salat </td>
+                                     <td>Performing daily prescribed prayers</td>
+                                   </tr>
+                                   <tr>
+                                     <th scope="row">3</th>
+                                     <td>Siyam </td>
+                                     <td>Fasting the lunar month of Ramadan</td>
+                                   </tr>
+                                   <tr>
+                                     <th scope="row">4</th>
+                                     <td>Zakat  </td>
+                                     <td>Paying alms as charity once a year </td>
+                                   </tr>
+                                   <tr>
+                                     <th scope="row">5</th>
+                                     <td>Hajj  </td>
+                                     <td>
+                                       Pilgrimage to the Sacred Mosque (the House of God) in Makkah once in a life time for those who have the physical and financial ability
+
+                                     </td>
+                                   </tr>
+                                 </tbody>
+                               </table>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                         data-delay="0.1">
+                        <img src="img/prophecy/0000.jpg" alt="history">
+                    </div>
+                </div>
+            </div>
+            </section>
+
+
+
+
+
+
+            <section>
+            <div class="row">
+                <div class="col-md-8 col-sm-8 pull-left">
+                    <div class="characters-text-box ">
+                      <p class="animate showFromDown" style="font-weight: bold;" data-animate="showFromDown" data-delay="3.3">
+                        1. Uttering the Creed of Islam, Shahada
+                      </p>
+                        <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                            This is to acknowledge that there is one and only one God Who created all beings. His name is Allah.
+                        <div class="note animate showFromLeft showFromUp" data-animate="showFromRight"
+                             data-delay="3.3">
+                            <!--<b></b><i></i>-->
+                            <div class="off">
+                                <div>
+                                    <div contenteditable="true" spellcheck="false">
+                                        <span>Note:</span><br>
+                                        A person is said to be a Muslim when he or she believes in heart and utters (acknowledges verbally) the statement of Shahada "there is no deity but Allah and Muhammad  is the Messenger of Allah." (In Arabic it is spelled: Ash’hado an la Ilaha illa Allah, Wa Ash’hado anna Muhammadan rasoolo’Allah.)
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </p>
+
+                        <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                          Acknowledging Muhammad  as a Prophet and a Messenger of God requires the acknowledgement of all Prophets and messengers God sent before him.
+                        </p>
+
+                        <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                          This is a testimony in Arabic calligraphy, which was designed in an artistic way. It states: I witness that there is no God except Allah and Muhammad is His servant and His messenger.
+                        </p>
+
+
+
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                         data-delay="0.1">
+                        <img src="img/prophecy/2225.png" alt="history">
+                    </div>
+                </div>
+            </div>
+            </section>
+
+
+
+            <section class="bg_section">
+            <div class="row">
+                <div class="col-md-8 col-sm-8 pull-right">
+                    <div class="characters-text-box ">
+                      <p class="animate showFromDown" style="font-weight: bold;" data-animate="showFromDown" data-delay="3.3">
+                      2. Prescribed Daily Prayers, Salat
+                      </p>
+
+                      <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                        Prayer (Salat) in Islam is an act of worship that enables the individual to communicate with his creator and get close to Him. There are five daily-prescribed prayers in Islam, which are distributed during the whole day cycle. The essence of worship is to glorify, exalt and praise God with the heart, tongue and body.
+                      </p>
+
+
+
+                      <span class="hadith verse animate showFromDown in" data-animate="showFromDown" data-delay="8" style="visibility: visible;">
+                           "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he/she calls upon Me. So let them respond to Me and believe in Me that they may be [rightly] guided". The Quran, 2:186
+<span class="refs"> (Tirmithi, 1/154, 113)</span>
+                      </span><br>
+
+
+                        <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                          In fact, the word ‘salat’ literally means ‘hot connection’. It is a practical demonstration of faith.  Each prayer includes physical movements of bowing and prostrating to Allah. Prayer show progressively increasing levels of submission to Allah. It requires full concentration and isolation from worldly matters. Prophet Muhammad said: "A person is closest to Allah during prostration."
+                        </p>
+
+                        <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                          Praying five times a day may seem excessive to some people. In reality, it is a  type of meditation that does not take more than forty minutes a day. Just as we eat three or four times a day and we never complain because we need physical nourishment to survive, we also need spiritual nourishment for our soul. Salat at spaced intervals throughout the day provides such spiritual nourishment.
+                        </p>
+
+
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                         data-delay="0.1">
+                        <img src="img/prophecy/2225.png" alt="history">
+                    </div>
+                </div>
+            </div>
+            </section>
+
+
+
+            <section>
+            <div class="row">
+                <div class="col-md-8 col-sm-8 pull-left">
+                    <div class="characters-text-box ">
+                      <p class="animate showFromDown" style="font-weight: bold;" data-animate="showFromDown" data-delay="3.3">
+                      3. Zakat, Alms Giving
+                      </p>
+
+                      <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                        Zakat is an essential pillar of Islam. It means giving alms (paying a charity) once every year to poor, needy and other rightful beneficiaries as stipulated by the Quran. It is specified with (2.5%) of excess personal wealth.
+                      <br>  Zakat cleanses one's heart from greed and removes hatred and jealousy from the hearts of the poor. It fosters social integration and collaboration, compassion and respect. It enhances the wellbeing of the whole society and achieves social justice.
+                      </p>
+
+
+
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                         data-delay="0.1">
+                        <img src="img/prophecy/2225.png" alt="history">
+                    </div>
+                </div>
+            </div>
+            </section>
+
+
+            <section class="bg_section">
+            <div class="row">
+                <div class="col-md-8 col-sm-8 pull-right">
+                    <div class="characters-text-box ">
+                      <p class="animate showFromDown" style="font-weight: bold;" data-animate="showFromDown" data-delay="3.3">
+                      4. Fasting in Ramadan
+                      </p>
+
+                      <div class="col-md-8 col-sm-8">
+                      <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                        Muslims are required to fast the whole lunar month of Ramadan (29 or 30 days), from the break of dawn to sunset. During the fasting time, Muslims are required to  abstain from eating, drinking and sexual contact while practicing a normal life.
+Fasting for the sake of Allah helps acknowledging that the sustenance (that may be taken for granted) actually comes directly from Allah.
+When people feel the pangs of hunger, they experience the suffering needy people go through specially in areas that starve or lack the basic sustenance. The rich will be more inclined to give charity when they fast. This builds up a relationship between the rich and the poor and helps build social harmony.
+Fasting enables one to curb the inner desires, learn self-control and hence achieve better spiritual development. Fasting has many health benefits and doctors recommend it to cure some diseases.
+                      </p>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                      <table style="margin-top:0px;" class="table merciful animate showFromDown" data-animate="showFromDown"
+                             data-delay="3.3">
+                        <tbody>
+                          <tr>
+                            <th scope="row">1</th>
+                            <td>Al-Muharram  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">2</th>
+                            <td>Safar  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">3</th>
+                            <td>Rabi' Al-Awal </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">4</th>
+                            <td>Rabi' Al-Akharah  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">5</th>
+                            <td>Jumada Al-Oula  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">6</th>
+                            <td>Jumada Al-Akharah </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">7</th>
+                            <td>Rajab  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">8</th>
+                            <td>Sha'ban   </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">9</th>
+                            <td><font color="#6a0a0b">Ramadan </font></td>
+                          </tr>
+                          <tr>
+                            <th scope="row">10</th>
+                            <td>Shawwal </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">11</th>
+                            <td> Zul Qui'da  </td>
+                          </tr>
+                          <tr>
+                            <th scope="row">12</th>
+                            <td><font color="#6a0a0b">Zul Hijjah </font></td>
+                          </tr>
+
+
+                        </tbody>
+                      </table>
+                      </div>
+                    </div>
+
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                         data-delay="0.1">
+                        <img src="img/prophecy/2225.png" alt="history">
+                    </div>
+                </div>
+            </div>
+            </section>
+
+
+
+
+            <section>
+            <div class="row">
+                <div class="col-md-8 col-sm-8 pull-left">
+                    <div class="characters-text-box ">
+                      <p class="animate showFromDown" style="font-weight: bold;" data-animate="showFromDown" data-delay="3.3">
+                        5. Pilgrimage to Makkah, Hajj
+                      </p>
+
+                      <div class="col-md-8 col-sm-8">
+                      <p class="animate showFromDown" data-animate="showFromDown" data-delay="3.3">
+                        Hajj is the pilgrimage to Makkah at the lunar month of Zul Hijjah with the intention to visit the Sacred Mosque (House of Allah) and perform certain religious rites. It is the fifth pillar of Islam that must be done once in a lifetime by all Muslims (who reached the age of puberty) provided they have the financial and physical ability to perform it.
+                      </p>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                      <p class="animate showFromDown bg-makkah" data-animate="showFromDown" data-delay="3.3">
+                       As people from all races and nations gather at the spiritual epicenter of the Islamic world, they are affirming their common paternal ancestry with Adam and their spiritual ancestry with Abraham.
+
+                      </p>
+                      </div>
+                    </div>
+
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                         data-delay="0.1">
+                        <img src="img/prophecy/2225.png" alt="history">
+                    </div>
+                </div>
+            </div>
+            </section>
+
+
+
+
         </div>
         <?php include('footer.php') ?>
         <script type="text/javascript" src='js/functions.js'></script>

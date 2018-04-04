@@ -69,9 +69,9 @@
                                 <li><a href="prophecy.php"><span>Muhammad and Divine revelation</span></a></li>
                                 <li><a href="The_message_of_islam.php"><span>The Message of Islam</span></a></li>
                                 <li><a href=""><span>Islam in brief</span></a></li>
-                                <li><a href=""><span>One God, One Message</span></a></li>
+                                <li><a href="oneGod.php"><span>One God, One Message</span></a></li>
                                 <li><a href=""><span>How is Muhammad related to Abraham, Moses, Jesus and other prophets?</span></a></li>
-                                <li><a href=""><span>The universality of Islam (the Message)</span></a></li>
+                                <li><a href="universality.php"><span>The universality of Islam (the Message)</span></a></li>
                             </ul>
                         </div>
                     </li>
@@ -80,12 +80,12 @@
                             <h2>The Islamic civilization</h2>
                             <p>Adding value to peoples' lives through love, harmony, knowledge, sport, personal care &amp; development, elimination of corruption, moderation, rational thinking, respecting neighbors and people of other faiths.</p> <a href="civilization.php">Read More +</a> </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay06" id="women"> <a href="woman.php"><span class="menu__item-name">Women in islam</span></a>
+                    <li class="_nav-item animate showFromLeft delay06" id="women"> <a href="javascript:void(0)"><span class="menu__item-name">Women in islam</span></a>
                         <div class="inner-menu women">
                             <h2>Women in islam</h2>
                             <ul class="nav">
-                                <li><a href=""><span>Women rights, empowerment and treatment.</span></a></li>
-                                <li><a href=""><span></span>God’s commandments to control polygamy.</a></li>
+                                <li><a href="woman.php"><span>Women rights, empowerment and treatment.</span></a></li>
+                                <li><a href="‏‏woman2.php"><span></span>God’s commandments to control polygamy.</a></li>
                             </ul>
                         </div>
                     </li>
@@ -99,21 +99,21 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay08" id="environment"> <a href="javascript:void(0)"><span class="menu__item-name">Environment</span></a>
+                    <li class="_nav-item animate showFromLeft delay08" id="environment"> <a href="rrrrEnvo.php"><span class="menu__item-name">Environment</span></a>
                         <div class="inner-menu environment">
                             <h2>Environment</h2>
                             <ul class="nav">
-                                <li><a href="environment.php"><span>The call for a green world. Adding value to the Environment.</span></a></li>
+                                <li><a href="rrrrEnvo.php"><span>The call for a green world. Adding value to the Environment.</span></a></li>
                                 <li><a href=""><span></span>The preservation of natural resources.</a></li>
                                 <li><a href=""><span></span>Ethical treatment of animals and Halal food.</a></li>
                             </ul>
                         </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay09" id="miracles"> <a href="javascript:void(0)"><span class="menu__item-name">The Miracles</span></a>
+                    <li class="_nav-item animate showFromLeft delay09" id="miracles"> <a href="miracles.php"><span class="menu__item-name">The Miracles</span></a>
                         <div class="inner-menu miracles">
                             <h2>The Miracles</h2>
                             <ul class="nav">
-                                <li><a href=""><span></span>The Quran is an eternal miracle.</a></li>
+                                <li><a href="miracles.php"><span></span>The Quran is an eternal miracle.</a></li>
                                 <li><a href=""><span></span>Scientific facts in the Quran.</a></li>
                             </ul>
                         </div>
