@@ -75,7 +75,7 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay05" id="civilization"> <a href="civilization.php"><span class="menu__item-name">The Islamic civilization</span></a>
+                    <li class="_nav-item animate showFromLeft delay05" id="civilization"> <a href="ggg.php"><span class="menu__item-name">The Islamic civilization</span></a>
                         <div class="inner-menu civilization">
                             <h2>The Islamic civilization</h2>
                             <p>Adding value to peoples' lives through love, harmony, knowledge, sport, personal care &amp; development, elimination of corruption, moderation, rational thinking, respecting neighbors and people of other faiths.</p> <a href="civilization.php">Read More +</a> </div>
@@ -100,7 +100,7 @@
                         </div>
                     </li>
                     <li class="_nav-item animate showFromLeft delay08" id="environment"> <a href="rrrrEnvo.php"><span class="menu__item-name">Environment</span></a>
-                        <div class="inner-menu environment">
+                        <div class="iteamUp.phpnner-menu environment">
                             <h2>Environment</h2>
                             <ul class="nav">
                                 <li><a href="rrrrEnvo.php"><span>The call for a green world. Adding value to the Environment.</span></a></li>
@@ -109,26 +109,31 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay09" id="miracles"> <a href="miracles.php"><span class="menu__item-name">The Miracles</span></a>
+                    <li class="_nav-item animate showFromLeft delay09" id="miracles"> <a href="javascript:void(0)"><span class="menu__item-name">The Miracles</span></a>
                         <div class="inner-menu miracles">
                             <h2>The Miracles</h2>
                             <ul class="nav">
                                 <li><a href="miracles.php"><span></span>The Quran is an eternal miracle.</a></li>
-                                <li><a href=""><span></span>Scientific facts in the Quran.</a></li>
+                                <li><a href="miracles1.php"><span></span>Scientific facts in the Quran.</a></li>
                             </ul>
                         </div>
                     </li>
                     <li class="_nav-item animate showFromLeft delay010" id="HisSayings"> <a href="javascript:void(0)"><span class="menu__item-name">His sayings</span></a>
                         <div class="inner-menu HisSayings">
                             <h2>His sayings</h2>
-                            <p>Muhammad's sayings in relation to various issues.</p> <a href="javascript:void(0)">Read More +</a> </div>
+                            <p>Muhammad's sayings in relation to various issues.</p>
+                            <ul class="nav">
+                                <li><a href="teamUp.php"><span></span>His Sayings</a></li>
+                                <li><a href="teamUp1.php"><span></span> Sayings of Prophet Muhammad  in Relation to Food and Medicine</a></li>
+                            </ul>
+                        </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay011" id="epilogue"> <a href="javascript:void(0)"><span class="menu__item-name">Epilogue</span></a>
+                    <li class="_nav-item animate showFromLeft delay011" id="epilogue"> <a href="Epilogue.php"><span class="menu__item-name">Epilogue</span></a>
                         <div class="inner-menu epilogue">
                             <h2>Epilogue</h2>
                             <p>History has recorded fine details of Muhammad’s life as well as his sublime and humane dealing with people.</p> <a href="#">Read More +</a> </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay012" id="arts"> <a href="javascript:void(0)"><span class="menu__item-name">Islamic Arts</span></a>
+                    <li class="_nav-item animate showFromLeft delay012" id="arts"> <a href="be.php"><span class="menu__item-name">Islamic Arts</span></a>
                         <div class="inner-menu arts">
                             <h2>Islamic Arts</h2>
                             <ul class="nav">

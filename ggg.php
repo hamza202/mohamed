@@ -50,36 +50,75 @@
         <img class="bottom-left-test" src="img/art_c.png">
         <div class=" custome-row">
             <section class="pt-0">
-            <div class="row">
-                <div class="col-md-10">
-                    <div class="title animated wow fadeInLeft"  data-wow-delay="0.5s" data-wow-duration="1s"><span class="left line"></span>
-                        <p>Character</p>
-                        <h1>Muhammad's<br>Character </h1> <span class="right line">
+                <div class="row">
+                    <div class="col-md-10">
+                        <div class="title animated wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s"><span
+                                    class="left line"></span>
+                            <p>Character</p>
+                            <h1>Muhammad's<br>Character </h1> <span class="right line">
                         <object id="pbuh01" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>
                         </span>
-                    </div>
-                    <p class="animated wow fadeInUp " data-wow-delay="0.9s" data-wow-duration="1s" > Muslims have no drawings or pictures for prophet Muhammad or the
-                        prophets before him. However, unlike the founders of the great faith traditions prior to his
-                        time, the Prophet Muhammad is much more a recognizable historical figure as his companions and
-                        family members described him very well and recorded many stories from his life for
-                        posterity.</p>
-                </div>
-            </div>
-            </section>
-            <section>
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="sikwe-10"></div>
-                        <img class="img-responsive" src="img/5.png">
+                        </div>
+                        <p class="animated wow fadeInUp " data-wow-delay="0.9s" data-wow-duration="1s"> History has
+                            recorded fine details of Muhammad’s life as well as his sublime and humane dealing with
+                            people. Michael Hart stated in his book “The 100; A Ranking of the Most Influential Persons
+                            in History”:</p>
                     </div>
                 </div>
             </section>
 
-    </div>
+            <section class="pad-tb-50">
+                <div class="row bg_section2">
+                    <div class="col-md-6">
+                        <div class="sikwe-10">
+                            <img class="img-responsive" src="img/bg-03.jpg">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="sek-container">
+                            <h3>Muhammad, the Man</h3>
+                            <p>
+                                “Of humble origins, Muhammad founded and promulgated one of the world’s great religions
+                                and became an immensely effective political leader. Today, thirteen centuries after his
+                                death, his influence is still powerful and pervasive. The majority of persons in this
+                                book, had the advantage of being born and raised in centers of civilization, highly
+                                cultured and politically pivotal nations”.
+
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="pad-tb-50">
+                <div class="row bg_section2">
+                    <div class="col-md-6 pull-right">
+                        <div class="sikwe-10">
+                            <img class="img-responsive" src="img/bg-03.jpg">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="sek-container">
+                            <h3>Lorem ipsum dolor sit amet</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dicta eaque molestiae
+                                natus
+                                perferendis quae quia sed. Assumenda error fugiat maxime natus odit quam quia sit sunt
+                                suscipit voluptas. Consequatur!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="space-100"></div>
+            <div class="space-100"></div>
+
+        </div>
     </div>
 </div>
-    <?php include('footer.php') ?>
-    <script type="text/javascript" src='js/functions.js'></script>
+<?php include('footer.php') ?>
+<script type="text/javascript" src='js/functions.js'></script>
 
 
 </body>

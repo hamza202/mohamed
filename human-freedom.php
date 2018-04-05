@@ -750,6 +750,7 @@ The Quran, 2:275
                                 </p>
 
                             </div>
+                            <br><br>
                             <div class="animated wow fadeInUp h-table"  data-wow-duration="1.5s">
                                 <p class="forprography forDanger">
                                     DO NOT KILL

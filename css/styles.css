@@ -2613,8 +2613,7 @@ h3.h3-costume{
     position: relative;
 }
 .section-padding {
-    padding-bottom: 90px;
-    padding-top: 140px;
+    padding-top: 50px;
 }
 .all-sections.work-section.home2-work-section .section-content {
     padding-top: 0;
@@ -2694,9 +2693,98 @@ h3.h3-costume{
     z-index: 2;
 }
 .sikwe-10{
-    -ms-transform: skew(20deg,10deg); /* IE 9 */
-    -webkit-transform: skew(20deg,10deg); /* Safari */
+    -ms-transform: skew(-10deg,0deg); /* IE 9 */
+    -webkit-transform: skew(-10deg,0deg); /* Safari */
     transform: skew(-10deg,0deg); /* Standard syntax */
+    overflow: hidden;
+    margin-left: -8%;
+}
+.sikwe-10 img{
+    -ms-transform: skew(10deg,0deg); /* IE 9 */
+    -webkit-transform: skew(10deg,0deg); /* Safari */
+    transform: skew(10deg,0deg); /* Standard syntax */
+    margin-left: 5%;
+}
+.bg_section2{
+    background: #02224f url(../img/pattern.png) repeat 0 0;
+    overflow: hidden;
+}
+.bg_section2 h3,
+.bg_section3 h3,
+.bg_section4 h3{
+    color: #29aae1;
+    font-size: 25px;
+}
+.bg_section2 .sek-container{
+    padding: 20px;
+}
+.bg_section2 p,
+.bg_section3 p{
+    padding-top: 15px;
+    color: #f0f0f0;
+    font-size: 15px;
+}
+.bg_section4 p{
+    color: #424242;
+    font-size: 15px;
+    padding-top: 15px;
+}
+.bg_section2 .pull-right .sikwe-10{
+    margin-right: -8%;
+    margin-left: 0;
+}
+.bg_section2 .pull-right .sikwe-10 img{
+    margin-left: -5%;
+}
+.pad-tb-50{
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.bg_section3 .col-md-6,
+.bg_section4 .col-md-6{
+    padding: 0;
+}
+.bg_section3{
+    background: #02224f url(../img/pattern.png) repeat 0 0;
+}
+.bg_section4{
+    background: #cccccc url(../img/pattern1.png) repeat 0 0;
+}
+.bg_section3 .sek-container,
+.bg_section4 .sek-container{
+    padding: 49px;
+    text-align: justify;
+}
+p.italic{
+    font-style: italic;
+    color: #b2b2b2;
+}
+.bg_section4 p.italic {
+    color: #0c0c0c;
+}
+.bg_section3 img,
+.bg_section4 img{
+    width: 100%;
+}
+@media only screen and (max-width: 992px) {
+    .sikwe-10{
+        -ms-transform: skew(0deg,0deg); /* IE 9 */
+        -webkit-transform: skew(0deg,0deg); /* Safari */
+        transform: skew(0deg,0deg); /* Standard syntax */
+        overflow: hidden;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .sikwe-10 img{
+        -ms-transform: skew(0deg,0deg); /* IE 9 */
+        -webkit-transform: skew(0deg,0deg); /* Safari */
+        transform: skew(0deg,0deg); /* Standard syntax */
+        margin-left:0 !important;
+        margin-right: 0 !important;
+    }
+}
+.inNqsh1{
+    margin-top: 100px;
 }
 @media only screen and (max-width: 767px) {
     .all-sections.work-section {
@@ -2752,6 +2840,6 @@ h3.h3-costume{
 @media only screen and (max-width: 767px) {
     .section-padding {
         padding-bottom: 50px;
-        padding-top: 80px;
+        padding-top: 30px;
     }
 }
