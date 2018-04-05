@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b9716b0-750d-46aa-a6bb-3b7e43ddfe66" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/customer.css" afterPath="$PROJECT_DIR$/css/customer.css" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/ggg.php" afterPath="$PROJECT_DIR$/ggg.php" />
-      <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change beforePath="$PROJECT_DIR$/human-freedom.php" afterPath="$PROJECT_DIR$/human-freedom.php" />
-      <change beforePath="$PROJECT_DIR$/img/Envo/img1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/YT-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/hero-slider-bg-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/hero-slider-bg-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/hero-slider-bg-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/hero-slider-bg-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/home-img-bottom-center.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/home-img-bottom-left.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/home-img-bottom-right.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/home-img-top-center.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/home-img-top-left.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/home-img-top-right.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/slide-img-about.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/slide-img-contact.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/slide-img-services.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/slide-img-works.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/thumbnail-slider-bg-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/thumbnail-slider-bg-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/thumbnail-slider-bg-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/thumbnail-slider-bg-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/thumbnail-slider-bg-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/thumbnail-slider-bg-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/background/vimeo-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/miracles.php" afterPath="$PROJECT_DIR$/miracles.php" />
-      <change beforePath="$PROJECT_DIR$/rrrrEnvo.php" afterPath="$PROJECT_DIR$/rrrrEnvo.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +16,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="2786" column="22" lean-forward="false" selection-start-line="2786" selection-start-column="22" selection-end-line="2786" selection-end-column="22" />
+            <state relative-caret-position="306">
+              <caret line="2789" column="22" lean-forward="false" selection-start-line="2789" selection-start-column="22" selection-end-line="2789" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -175,7 +145,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -288,15 +258,15 @@
       <workItem from="1522853207516" duration="2084000" />
       <workItem from="1522856900187" duration="737000" />
       <workItem from="1522860108573" duration="5469000" />
-      <workItem from="1522910923420" duration="2447000" />
+      <workItem from="1522910923420" duration="2538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263555000" />
+    <option name="totallyTimeSpent" value="263646000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -681,8 +651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="2786" column="22" lean-forward="false" selection-start-line="2786" selection-start-column="22" selection-end-line="2786" selection-end-column="22" />
+        <state relative-caret-position="306">
+          <caret line="2789" column="22" lean-forward="false" selection-start-line="2789" selection-start-column="22" selection-end-line="2789" selection-end-column="22" />
           <folding />
         </state>
       </provider>
