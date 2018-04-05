@@ -491,7 +491,7 @@ Fasting enables one to curb the inner desires, learn self-control and hence achi
                     </div>
 
                     <div class="col-md-4 col-sm-4">
-                      <table style="margin-top:0px;" class="table merciful animate showFromDown" data-animate="showFromDown"
+                      <table style="margin-top:0px;" class="table merciful  animate showFromDown Fasting-table" data-animate="showFromDown"
                              data-delay="3.3">
                         <tbody>
                           <tr>

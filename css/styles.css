@@ -2313,6 +2313,9 @@ img.ayat {
     background: rgba(136, 71, 2, 0.60);
     color: #fff;
 }
+.Fasting-table{
+    width: 100%;
+}
 
 /*.bg-fixed{*/
 /*position: fixed;*/
@@ -2501,7 +2504,7 @@ h3.h3-costume{
 }
 .hero-caption > p {
     color: #747474;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 25px;
     margin-bottom: 40px;
     padding-right: 40px;
@@ -2786,8 +2789,8 @@ p.italic{
 .inNqsh1{
     margin-top: 100px;
 }
-.forImgEnvorr{
-    min-height: 600px;
+.inNqsh1.mt-30{
+    margin-top: 30px;
 }
 @media only screen and (max-width: 767px) {
     .all-sections.work-section {

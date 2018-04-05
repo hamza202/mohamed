@@ -137,21 +137,7 @@
                             God).
                             <span class="forNumberAya"><br>(Prophet Muhammad)</span>
                         </p>
-                    </div>
-                </div>
-            </div>
-            <!-- End container leftIMG -->
-
-            <div class="div40vh"></div>
-            <!-- Start container RightIMG -->
-
-            <div class="container-fluid">
-                <div class="row text-center rowNqsh">
-                    <div class="col-sm-7 forseven2 text-left nqsh nqshRight animated wow fadeInUpBig"
-                         data-wow-delay="1.4s" data-wow-duration="2s" style="">
-                        <!-- <h2 class="h2 weDoing">What We Are Doing</h2> -->
-                        <!-- <div class="hrDoing"></div> -->
-                        <h3 class="h3 inNqsh1">Natural resources are in perfect equilibrium
+                        <h3 class="h3 inNqsh1 mt-30">Natural resources are in perfect equilibrium
                         </h3>
                         <p class="doingP text-justify">
                             Muhammad taught his followers that all natural resources
@@ -165,6 +151,79 @@
                             “...the work (creation & artistry of Allah) Who perfected all
                             things (disposed all things in perfect order).”
                             <span class="forNumberAya"><br>The Quran, 54:49; 13:8; 27:88</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- End container leftIMG -->
+
+            <div class="space-100"></div>
+            <!-- Start container RightIMG -->
+
+            <div class="container-fluid">
+                <div class="row text-center rowNqsh">
+                    <div class="col-sm-7 forseven2 text-left nqsh nqshRight animated wow fadeInUpBig"
+                         data-wow-delay="1.4s" data-wow-duration="2s" style="">
+                        <h3 class="h3 inNqsh1">
+                            People have equal rights in natural
+                            resources:
+                        </h3>
+                        <p class="forprography animated wow fadeInUp" data-wow-delay="0.7s" data-wow-duration="2s">“O
+                            mankind!
+                            Natural resources are
+                            the gift of God to all mankind.
+                            They should not be wasted or
+                            monopolized. Muhammad
+                            stated that people have
+                            equal shares in water,
+                            grass (green cover)
+                            and fire (energy)
+                            (except what
+                            was legally
+                            privatized).
+                            <!-- <span class="forNumberAya"><br>The Quran, 49:13<br>
+                            The Inner Apartments (Al-Hujurát)</span> -->
+                        </p>
+
+                        <p class="doingP text-justify">
+                            Add Value
+                        </p>
+                        <p class="forprography forAya animated wow fadeInUp" data-wow-delay="0.7s"
+                           data-wow-duration="2s">“O mankind!
+                            Don't pollute the environment
+                            <br>
+                            Don't damage the environment
+                            <br>
+                            Don't waste/overuse natural resources
+                            <br>
+                            Use natural resources efficiently, consider recycling
+                        </p>
+                        <h3 class="h3 inNqsh1 mt-30">“No Harm” is a general rule
+                        </h3>
+                        <p class="doingP text-justify">
+                            Muhammad set a general
+                            rule for protecting the
+                            natural resources, preserving
+                            the environment and securing
+                            people when he said to his
+                            companions:
+                        </p>
+                        <p class="forprography forAya animated wow fadeInUp" data-wow-delay="0.7s"
+                           data-wow-duration="2s">“O mankind!
+                            “You are not to harm or to
+                            be harmed.”
+                        </p>
+                        <p class="forprography forAya animated wow fadeInUp" data-wow-delay="0.7s"
+                           data-wow-duration="2s">“O mankind!
+                            “Faith (in God) can be
+                            branched into more
+                            than 70 parts topped by
+                            testifying the oneness
+                            of God. The last part is
+                            removing harm from
+                            people's way. "
+                            <span class="forNumberAya"><br>Prophet Muhammad<br>(Sahih Al-Bukhari, 1/11, 9)
+</span>
                         </p>
                     </div>
 
@@ -185,7 +244,7 @@
                     </div>
                 </div>
             </div>
-            <div class="div40vh"></div>
+            <div class="space-100"></div>
 
             <!-- End container RightIMG -->
 
@@ -228,145 +287,7 @@
                         Environment Protection
                         </h2>
                                 <div class="hrDoing"></div> -->
-                        <h3 class="h3 inNqsh1 text-justify">
-                            People have equal rights in natural
-                            resources:
-                        </h3>
-                        <p class="forprography animated wow fadeInUp" data-wow-delay="0.7s" data-wow-duration="2s">“O
-                            mankind!
-                            Natural resources are
-                            the gift of God to all mankind.
-                            They should not be wasted or
-                            monopolized. Muhammad
-                            stated that people have
-                            equal shares in water,
-                            grass (green cover)
-                            and fire (energy)
-                            (except what
-                            was legally
-                            privatized).
-                            <!-- <span class="forNumberAya"><br>The Quran, 49:13<br>
-                            The Inner Apartments (Al-Hujurát)</span> -->
-                        </p>
-
-                        <p class="doingP text-justify">
-                            Add Value
-                        </p>
-                        <p class="forprography forAya animated wow fadeInUp" data-wow-delay="0.7s"
-                           data-wow-duration="2s">“O mankind!
-                            Don't pollute the environment
-                            <br>
-                            Don't damage the environment
-                            <br>
-                            Don't waste/overuse natural resources
-                            <br>
-                            Use natural resources efficiently, consider recycling
-
-
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!-- End container leftIMG -->
-
-            <div class="div40vh"></div>
-            <!-- Start container RightIMG -->
-
-            <div class="container-fluid">
-                <div class="row text-center rowNqsh">
-                    <div class="col-sm-7 forseven2 text-left nqsh nqshRight animated wow fadeInUpBig"
-                         data-wow-delay="1.4s" data-wow-duration="2s" style="">
-                        <!-- <h2 class="h2 weDoing">What We Are Doing</h2> -->
-                        <!-- <div class="hrDoing"></div> -->
-                        <h3 class="h3 inNqsh1">“No Harm” is a general rule
-                        </h3>
-                        <p class="doingP text-justify">
-                            Muhammad set a general
-                            rule for protecting the
-                            natural resources, preserving
-                            the environment and securing
-                            people when he said to his
-                            companions:
-                        </p>
-                        <p class="forprography forAya animated wow fadeInUp" data-wow-delay="0.7s"
-                           data-wow-duration="2s">“O mankind!
-                            “You are not to harm or to
-                            be harmed.”
-                        </p>
-                        <p class="forprography forAya animated wow fadeInUp" data-wow-delay="0.7s"
-                           data-wow-duration="2s">“O mankind!
-                            “Faith (in God) can be
-                            branched into more
-                            than 70 parts topped by
-                            testifying the oneness
-                            of God. The last part is
-                            removing harm from
-                            people's way. "
-                            <span class="forNumberAya"><br>Prophet Muhammad<br>(Sahih Al-Bukhari, 1/11, 9)
-</span>
-                        </p>
-                    </div>
-
-                    <!-- <div class="col-sm-5" style="padding:0;">
-
-                        <div class="upupimg">
-                        <div class="upimgRight" style="">
-                      <img src="img/Envo/img1.jpg" class="animated wow slideInRight forimgrr" data-wow-delay="0.7s" data-wow-duration="2s" />
-                    </div>
-                    </div>
-                    </div> -->
-                    <div class="col-sm-5 forfive2" style="padding:0;">
-                        <div class="forimgshadowRightrr2 animated wow fadeInRightBig" data-wow-delay="0.4s"
-                             data-wow-duration="2s">
-                            <img src="img/Envo/4.jpg" class="forImgEnvorr2 animated wow fadeInRightBig"
-                                 data-wow-delay="1.2s" data-wow-duration="2s"/>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="div40vh"></div>
-
-            <!-- End container RightIMG -->
-
-
-            <!--*********************** end the left And Right **********************-->
-
-            <!--*************************** start the left And Right ************************  3 -->
-            <!-- Start 3enoan 1 -->
-
-            <!-- <h2 class="h2 weDoing animated wow fadeInUpBig" data-wow-delay="0.4s" data-wow-duration="2s">What We Are Doing</h2>
-            <div class="hrDoing center-block animated wow fadeInUpBig" data-wow-delay="0.6s" data-wow-duration="2s"></div> -->
-
-            <!-- End 3enoan1 -->
-
-            <!-- Start container leftIMG -->
-            <div class="container-fluid">
-                <div class="row text-center rowNqsh">
-                    <!-- <div class="col-sm-5" style="padding:0;">
-                        <div class="upupimg shadowimgrr">
-                        <div class="upimg" style="">
-                        <img src="img/Envo/img1.jpg" class="animated wow slideInLeft forimgrr" data-wow-delay="0.7s" data-wow-duration="2s" />
-                    </div>
-                    </div>
-                    </div> -->
-
-
-                    <div class="col-sm-5 forfive" style="padding:0;">
-                        <div class="forimgshadowLeftrr animated wow fadeInLeftBig" data-wow-delay="0.4s"
-                             data-wow-duration="2s">
-                            <img src="img/Envo/5.jpg" class="forImgEnvorr animated wow fadeInLeftBig"
-                                 data-wow-delay="1.2s" data-wow-duration="2s"/>
-                        </div>
-                    </div>
-
-
-                    <div class="col-sm-7 text-left animated wow fadeInUpBig forseven" data-wow-delay="1.4s"
-                         data-wow-duration="2s" style="padding:0 100px;z-index:-1;">
-                        <!-- <h2 class="h2 weDoing">
-                        Environment Protection
-                        </h2>
-                                <div class="hrDoing"></div> -->
-                        <h3 class="h3 inNqsh1 text-justify">
+                        <h3 class="h3 inNqsh1 ">
                             Muhammad emphasized water rationing and
                             condemned wasting and overspending
                         </h3>
@@ -410,21 +331,7 @@
 
 
                         </p>
-                    </div>
-                </div>
-            </div>
-            <!-- End container leftIMG -->
-
-            <div class="div40vh"></div>
-            <!-- Start container RightIMG -->
-
-            <div class="container-fluid">
-                <div class="row text-center rowNqsh">
-                    <div class="col-sm-7 forseven2 text-left nqsh nqshRight animated wow fadeInUpBig"
-                         data-wow-delay="1.4s" data-wow-duration="2s" style="">
-                        <!-- <h2 class="h2 weDoing">What We Are Doing</h2> -->
-                        <!-- <div class="hrDoing"></div> -->
-                        <h3 class="h3 inNqsh1">“No Harm” is a general rule
+                        <h3 class="h3 inNqsh1 mt-30">“No Harm” is a general rule
                         </h3>
                         <p class="doingP text-justify">
                             Muhammad set a general
@@ -452,32 +359,10 @@
 </span>
                         </p>
                     </div>
-
-                    <!-- <div class="col-sm-5" style="padding:0;">
-
-                        <div class="upupimg">
-                        <div class="upimgRight" style="">
-                      <img src="img/Envo/img1.jpg" class="animated wow slideInRight forimgrr" data-wow-delay="0.7s" data-wow-duration="2s" />
-                    </div>
-                    </div>
-                    </div> -->
-                    <div class="col-sm-5 forfive2" style="padding:0;">
-                        <div class="forimgshadowRightrr2 animated wow fadeInRightBig" data-wow-delay="0.4s"
-                             data-wow-duration="2s">
-                            <img src="img/Envo/6.jpg" class="forImgEnvorr2 animated wow fadeInRightBig"
-                                 data-wow-delay="1.2s" data-wow-duration="2s"/>
-                        </div>
-                    </div>
                 </div>
             </div>
-            <div class="div40vh"></div>
+            <div class="space-100"></div>
 
-            <!-- End container RightIMG -->
-
-
-            <!--*********************** end the left And Right **********************-->
-
-            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         </div>
         <?php include('footer.php') ?>
         <script type="text/javascript" src='js/functions.js'></script>

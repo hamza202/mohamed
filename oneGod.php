@@ -168,7 +168,7 @@ We did reveal the Torah, where in it there is guidance and a light. The Quran, 5
 
                         <section class="bg_section">
                         <div class="row">
-                            <div class="col-md-8 col-sm-8 pull-left">
+                            <div class="col-md-8 col-sm-8 pull-right">
                                 <div class="characters-text-box">
                                     <div class="heading-left animate showFromRight" data-animate="showFromRight"
                                          data-delay="1.3">
@@ -275,9 +275,9 @@ It is believed that the first building for worshipping one God was established w
 
 
 
-                        <section>
+                        <section class="bg_section">
                         <div class="row">
-                            <div class="col-md-8 col-sm-8 pull-left">
+                            <div class="col-md-8 col-sm-8 pull-right">
                                 <div class="characters-text-box">
                                   <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
                                     Then Muhammad walked between the Safa and Marwa hills, the same place Hagar walked thousands of years ago searching for water after her husband Abraham left her there with their son Ishmael. Abraham asked her to stay there as an act of obedience and submission to God’s Command Who wanted the place to become a sanctuary and a place of worship.
@@ -339,7 +339,7 @@ The Islamic teachings forbid directing prayers or supplications towards the tomb
 
                         <section>
                         <div class="row">
-                            <div class="col-md-8 col-sm-8 pull-right">
+                            <div class="col-md-8 col-sm-8">
                                 <div class="characters-text-box">
 
 
@@ -418,9 +418,9 @@ The Islamic teachings forbid directing prayers or supplications towards the tomb
 
 
 
-                        <section>
+                        <section class="bg_section">
                         <div class="row">
-                            <div class="col-md-8 col-sm-8 pull-right">
+                            <div class="col-md-8 col-sm-8 ">
                                 <div class="characters-text-box">
                                   <div class="heading-left animate showFromRight" data-animate="showFromRight"
                                        data-delay="1.3">
@@ -467,7 +467,7 @@ The Quran mentions that God spoke to Moses and described him as one of the five 
 
                         <section>
                         <div class="row">
-                            <div class="col-md-8 col-sm-8 pull-left">
+                            <div class="col-md-8 col-sm-8 pull-right">
                                 <div class="characters-text-box">
                                   <div class="heading-left animate showFromRight" data-animate="showFromRight"
                                        data-delay="1.3">

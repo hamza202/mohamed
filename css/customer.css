@@ -560,8 +560,8 @@ img {
     .fordisplayimg0{display: block;}
 }
 .forimgshadowLeft{
-    margin-left:70px;
-    box-shadow: -70px 70px 0px #B08961; 
+    margin-left:50px;
+    box-shadow: -50px 50px 0px #B08961;
     min-height:600px;
     overflow: hidden;
 }
@@ -569,7 +569,7 @@ img {
 .forimgshadowLeftrr{
     margin-left:70px !important;
     /* box-shadow: 70px 70px 0px #02224f;  */
-    min-height:800px;
+    min-height:600px;
      /* overflow: hidden;  */
     background: #02224f url(../img/pattern12.png) repeat 0 0;
 margin-top: 130px !important;
@@ -595,8 +595,8 @@ margin-left: 70px !important;
 
 
 .forimgshadowRight{
-    margin-right:70px;
-    box-shadow: 70px 70px 0px #B08961; 
+    margin-right:50px;
+    box-shadow: 50px 50px 0px #B08961;
     min-height:600px;
     z-index: 400;
     position: relative;
@@ -624,13 +624,13 @@ margin-left: 70px !important;
     min-height:600px;
 }
 .forImgEnvorr{
-    min-height:800px;
+    min-height:600px;
     position: relative;
     margin-left: -140px;
     margin-top: -70px;
 }
 .forImgEnvorr2{
-    min-height:800px;
+    min-height:600px;
     position: relative;
     margin-right: -140px;
     margin-top: -70px;
@@ -695,7 +695,7 @@ z-index: 600;
     font-size: 26px !important;
 }
 .fontDivWhiteTeam{
-    font-size: 55px;
+    font-size: 27px !important;
     color: #052451;
 }
 @font-face {
@@ -709,8 +709,8 @@ z-index: 600;
 }
 .forprography{
     font-size: 15px;
-    padding: 11px;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 .forprographyTeam{
     font-size: 15px;
@@ -770,7 +770,7 @@ color:#fff;
 
     .div40vh{height:40vh;}
     .inNqsh1{
-        font-size: 35px;
+        font-size: 25px;
         color: #29aae1;
         font-family: 'roboto', sans-serif;
        
@@ -778,7 +778,7 @@ color:#fff;
     }
     .doingP{
         font-family: 'roboto', sans-serif;
-          font-size: 22px;
+          font-size: 15px;
           color: #333;
 
     }
