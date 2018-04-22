@@ -237,8 +237,4 @@ $('#qmenu li a').click(function (e) {
 });
 
 
-//click nav
-$( ".nav a" ).click(function() {
-    $( "#btn-nav-close" ).click();
-});
 

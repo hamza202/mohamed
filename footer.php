@@ -38,3 +38,20 @@
     wow.init();
 
 </script>
+<script>
+    (function() {
+        var cx = '004323501169046690086:3kbr_qy9icq';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+
+</script>
+<script>
+    window.onload = function(){
+        document.getElementById('gsc-i-id1').placeholder = 'Search';
+    };
+</script>

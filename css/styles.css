@@ -40,11 +40,11 @@ section.no__margin {
 
 * {
     outline: none !important;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -o-user-select: none;
-    user-select: none;
+    /*-webkit-user-select: none;*/
+    /*-moz-user-select: none;*/
+    /*-ms-user-select: none;*/
+    /*-o-user-select: none;*/
+    /*user-select: none;*/
 
 }
 
@@ -1971,7 +1971,7 @@ img.top-right-test {
     padding: 136px 0px 93px;
     background-repeat: no-repeat;
     background-size: cover;
-    background: rgba(0, 0, 0, 0) url("../img/banner-pattran-bg.png") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../img/m.png") repeat scroll 0 0;
 }
 
 @-webkit-keyframes shafaqat {
@@ -2792,6 +2792,9 @@ p.italic{
 .inNqsh1.mt-30{
     margin-top: 30px;
 }
+strong{
+    font-weight: bold;
+}
 @media only screen and (max-width: 767px) {
     .all-sections.work-section {
         margin-top: 0;
@@ -2848,4 +2851,53 @@ p.italic{
         padding-bottom: 50px;
         padding-top: 30px;
     }
+}
+
+/*search Start*/
+.gsc-control-cse{
+    border: 0 !important;
+    background: transparent !important;
+    padding: 0 !important;
+}
+#gsc-i-id1{
+    background: rgba(255, 255, 255, 0.07) !important;
+    color: #fff !important;
+    font-size: 32px !important;
+    padding: 50px !important;
+    text-indent:0 !important;
+    width: 102% !important;
+}
+.gsc-input-box{
+    background-color: transparent !important;
+    border: 0 !important;
+    height: auto !important;
+}
+.gsc-search-button-v2 svg{
+    display: none !important;
+}
+
+#gsc-i-id1::placeholder{
+    font-size: 32px !important;
+    color: rgba(255,255,255,0.3);
+}
+td.gsib_b{
+    display: none !important;
+}
+.gsc-input-box-focus{
+    box-shadow: none !important;
+}
+/*.............*/
+.revBtn .btn:hover{
+    color: #fff;
+}
+@media (max-width : 768px) {
+    .col-md-8.pull-right{
+        float: none !important;
+    }
+    .characters-frame img{
+        margin: 40px auto !important;
+    }
+}
+.merciful{
+    width: 100% !important;
 }

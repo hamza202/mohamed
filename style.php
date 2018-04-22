@@ -13,5 +13,6 @@
     <link rel="stylesheet" type="text/css" href="./css/customerBio.css">
     <link rel="stylesheet" type="text/css" href="./css/responsive.css">
     <link rel="stylesheet" type="text/css" href="./css/fontawesome-all.min.css">
+    <link rel="stylesheet" type="text/css" href="./css/news-style.css"><!-- style saleh -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
 </head>

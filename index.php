@@ -64,6 +64,7 @@
                 </div>
             </div>
         </section>
+
         <section>
             <div class="row">
                 <div class="s__box" id="rev-1"> <img src="img/mecca.jpg" alt="MPBUH" /> </div>
@@ -81,6 +82,7 @@
             </div>
         </section>
         <section class="bg__section">
+
             <div class="row">
                 <div class="l__box float_left">
                     <div class="m__row">
@@ -135,8 +137,8 @@
                     <div class="s__box nav">
                         <ul class="animate delay02" data-animate="showFromDown">
                             <li><a href="" class="active"><span>What did he look like?</span></a></li>
-                            <li><a href=""><span>His nature</span></a></li>
-                            <li><a href=""><span>Emotions and Passions</span></a></li>
+                            <li><a href="character.php"><span>His nature</span></a></li>
+                            <li><a href="character.php"><span>Emotions and Passions</span></a></li>
                             <li><a href=""><span>Way he spoke</span></a></li>
                             <li><a href=""><span>Interactions with people</span></a></li>
                             <li><a href=""><span>Style of living</span></a></li>

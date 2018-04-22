@@ -69,18 +69,16 @@
                 <section class="bg_section ">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 pull-right">
-                        <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
-                             data-delay="0.1">
+                        <div class="characters-frame wow fadeInRight" >
                             <img src="img/prophecy/mohamed1.png" alt="history">
                         </div>
                     </div>
                     <div class="col-md-8 col-sm-6">
                         <div class="characters-text-box">
-                            <div class="heading-left animate showFromLeft" data-animate="showFromRight"
-                                 data-delay="1.3">
-                                <h2>What did he look like?</h2>
+                            <div class="heading-left wow fadeInLeft">
+                                <h2 class="wow fadeInRight">What did he look like?</h2>
                             </div>
-                            <p class="animate showFromLeft" data-animate="showFromRight" data-delay="3.3">
+                            <p class="wow fadeInLeft">
                                 Muhammad was an Arab of noble lineage with a white complexion and a rosy tinge. He was a
                                 little taller than average and well built with broad shoulders. His belly never
                                 protruded out from his chest. He walked briskly and firmly. Muhammad’s companions

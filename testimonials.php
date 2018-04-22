@@ -69,15 +69,15 @@
                         <div class="test-content">
                             <div class="row flix">
                                 <div class="col-sm-4">
-                                    <img data-animate="showFromLeft " data-delay="2.5" class="img-responsive animate"
+                                    <img class="img-responsive wow fadeInLeft "
                                          src="img/testimonials/01.jpg">
                                 </div>
                                 <div class="col-sm-8">
-                                    <span class="animate " data-animate="showFromLeft" data-delay="3.5">
-                                                                            <h3 class="animate "
-                                                                                data-animate="showFromLeft"
-                                                                                data-delay="0.1">John Adair</h3>
-                                        Author of “The Leadership of Muhammad”. Chair of Leadership Studies United Nations System Staff College in Turin</span>
+                                    <span class="wow fadeInLeft ">
+                                        <h3 class="wow fadeInLeft ">John Adair</h3>
+                                        Author of “The Leadership of Muhammad”.
+                                        Chair of Leadership Studies United Nations
+                                        System Staff College in Turin</span>
 
                                 </div>
                             </div>
@@ -85,7 +85,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 border-left">
-                        <p class="animate showFromLeft" data-animate="showFromLeft" data-delay="10">Leadership glimpsed more than
+                        <p class="wow fadeInRight">Leadership glimpsed more than
                             once in the life of the Prophet Muhammad accords well with
                             what we know to be the universal truth about the nature and practice of leadership. You will
                             judge for yourself how close Muhammad comes to this ideal.<i class="fa fa-quote-right"
@@ -267,7 +267,8 @@
                                 </div>
                                 <div class="col-sm-8">
                                     <span class="animate " data-animate="showFromLeft" data-delay="3.5">
-                                      <h3 class="animate " data-animate="showFromLeft" data-delay="0.1">Leo Tolstoy </h3>
+                                      <h3 class="animate " data-animate="showFromLeft"
+                                          data-delay="0.1">Leo Tolstoy </h3>
 
                                         (1828 - 1910) The famous Russian writer and novelist. Author of ”War and Peace". </span>
 

@@ -10,7 +10,9 @@
 <div class="search"> <img class="left" src="img/art_c.png" />
     <button id="btn-search-close" class="btn--search-close" aria-label="Close search form"><i class="fas fa-times"></i></button>
     <form class="search__form" action="">
-        <input class="search__input" name="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" /> <span class="search__info">Hit enter to search or ESC to close</span> </form> <img class="right" src="img/art_c.png" /> </div>
+        <gcse:search></gcse:search>
+        <span class="search__info">Hit enter to search or ESC to close</span>
+    </form> <img class="right" src="img/art_c.png" /> </div>
 <div class="navigation"> <img class="left" src="img/art_c.png" />
     <button id="btn-nav-close" class="btn--nav-close" aria-label="Close nav"><i class="fas fa-times"></i></button>
     <div class="scroll_cont">
@@ -75,10 +77,15 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="_nav-item animate showFromLeft delay05" id="civilization"> <a href="ggg.php"><span class="menu__item-name">The Islamic civilization</span></a>
+                    <li class="_nav-item animate showFromLeft delay05" id="civilization"> <a href="javascript:void(0)"><span class="menu__item-name">The Islamic civilization</span></a>
                         <div class="inner-menu civilization">
                             <h2>The Islamic civilization</h2>
-                            <p>Adding value to peoples' lives through love, harmony, knowledge, sport, personal care &amp; development, elimination of corruption, moderation, rational thinking, respecting neighbors and people of other faiths.</p> <a href="civilization.php">Read More +</a> </div>
+                            <p>Adding value to peoples' lives through love, harmony, knowledge, sport, personal care &amp; development, elimination of corruption, moderation, rational thinking, respecting neighbors and people of other faiths.</p>
+                        <ul class="nav">
+                            <li><a href="islamic1.php"><span></span>Values and Morals</a></li>
+                            <li><a href="‏‏islamic2.php"><span></span>Social  Values</a></li>
+                        </ul>
+                        </div>
                     </li>
                     <li class="_nav-item animate showFromLeft delay06" id="women"> <a href="javascript:void(0)"><span class="menu__item-name">Women in islam</span></a>
                         <div class="inner-menu women">

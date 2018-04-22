@@ -198,7 +198,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4 ">
-                            <div class="characters-frame animate showFromLeft " data-animate="showFromLeft"
+                            <div class="characters-frame wow fadeInRight " data-animate="showFromLeft"
                                  data-delay="0.1">
                                 <img src="img/prophecy/0000.png" alt="history">
                             </div>
