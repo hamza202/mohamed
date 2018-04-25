@@ -56,7 +56,8 @@
                         <div class="title "><span class="left line"></span>
                             <p>Character</p>
                             <h1 class="h2">Islamic <br>Arts</h1> <span class="right line">
-                        <object id="pbuh01" class="hidden" type="image/svg+xml" data="img/pbuh.svg" __idm_frm__="1394"></object>
+                        <object id="pbuh01" class="hidden" type="image/svg+xml" data="img/pbuh.svg"
+                                __idm_frm__="1394"></object>
                         </span></div>
                     </div>
                 </div>
@@ -70,12 +71,16 @@
                 <!-- ******* Start row Left ****** -->
                 <div class="row">
 
-                    <div class="col-md-5">
+                    <div class="col-md-6">
 
-                        <div class="overtheimgturk">
+                        <div class="overtheimgturk animated wow fadeInUp">
 
-                            <div class=" whiteTurk animated wow slideInLeft">
-                                <h2 class="h2 h2Turk">Peter Gould</h2>
+                            <div class=" whiteTurk ">
+
+                                <h2 class="h2 h2Turk">
+                                    <span>Australia</span>Peter Gould
+
+                                </h2>
 
                                 <div class="hrTurk"></div>
 
@@ -93,30 +98,21 @@
                         <div class="row therow2img animated wow fadeInUp">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/1.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/1.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/2.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/2.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
                     </div>
 
 
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/3.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"/>
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft">
-                                Australia
-                            </div>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk animated wow fadeInUp">
+                            <img src="img/arts/3.jpg" style="width:100%;height:auto;" class=""/>
                         </div>
                     </div>
 
@@ -125,23 +121,17 @@
             </section>
             <section>
                 <div class="row">
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft">
-                                UK
-                            </div>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/4.jpg" style="width:100%;height:auto;" class=""/>
                         </div>
                     </div>
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/4.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"/>
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft">
-                                <h2 class="h2 h2Turk">Peter Sanders</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk ">
+                                <h2 class="h2 h2Turk">
+                                    <span>UK</span>
+                                    Peter Sanders</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -164,15 +154,15 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="row therow2img animated wow fadeInUp">
+                        <div class="row therow2img  ">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/5.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/5.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/6.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk  wow fadeInUp"><img src="img/arts/6.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
@@ -181,12 +171,12 @@
             </section>
             <section class="bg_section">
                 <div class="row">
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft">
-                                <h2 class="h2 h2Turk" style="margin-top: -3px;
-    margin-bottom: -14px;">Hassan Çeleb</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk ">
+                                <h2 class="h2 h2Turk">
+                                    <span>Turkey</span>
+                                    Hassan Çeleb</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -211,59 +201,41 @@
                             </div>
 
                         </div>
-                        <div class="row therow2img animated wow fadeInUp">
+                        <div class="row therow2img ">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/7.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/7.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/8.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/8.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/9.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"/>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/9.jpg" style="width:100%;height:auto;" class=" "/>
                         </div>
                     </div>
-
-
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft">
-                                Turkey
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </section>
 
             <section>
                 <div class="row">
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft" >
-                                USA
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/10.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/10.jpg" style="width:100%;height:auto;" class=" "
                             />
                         </div>
                     </div>
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft" >
-                                <h2 class="h2 h2Turk">Mohamed Zakariya</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk ">
+                                <h2 class="h2 h2Turk">
+                                    <span>USA</span>
+                                    Mohamed Zakariya</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -286,12 +258,12 @@
                         <div class="row therow2img animated wow fadeInUp">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/11.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/11.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/12.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/12.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
@@ -302,10 +274,12 @@
             <section class="bg_section">
                 <div class="row">
 
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft">
-                                <h2 class="h2 h2Turk" style="    margin-top: 3px;">Nuria Garcia Masip</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk  ">
+                                <h2 class="h2 h2Turk">
+                                    <span>Spain</span>
+                                    Nuria Garcia Masip</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -327,62 +301,42 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="row therow2img animated wow fadeInUp">
+                        <div class="row therow2img animated ">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/13.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/13.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/14.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/14.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/15.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"
-                                />
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/15.jpg" style="width:100%;height:auto;" class=""
+                            />
                         </div>
                     </div>
-
-
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft">
-                                Spain
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </section>
             <section>
                 <!-- ******* Start row Right ****** -->
                 <div class="row">
-                    <div class="col-md-2  text-center">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft" >
-                                India
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/17.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"
-                                 />
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/17.jpg" style="width:100%;height:auto;" class=""
+                            />
                         </div>
                     </div>
                     <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft" style="padding-bottom: 0px;"
-                             >
-                                <h2 class="h2 h2Turk" style="margin-top: 10px;
-    margin-bottom: 25px;">Salva Rasoo</h2>
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk ">
+                                <h2 class="h2 h2Turk">
+                                    <span>India</span>
+                                    Salva Rasoo</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -415,20 +369,20 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="row therow2img animated wow fadeInUp">
+                        <div class="row therow2img ">
 
-                            <div class="col-md-4">
-                                <div class="overtheimgturk" style="/*width:71%;*/"><img src="img/arts/18.jpg"
+                            <div class="col-md-4 ">
+                                <div class="overtheimgturk wow fadeInUp" style="/*width:71%;*/"><img src="img/arts/18.jpg"
                                                                                         style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-4">
-                                <div class="overtheimgturk" style="/*width:71%;float:right;*/"><img
+                                <div class="overtheimgturk wow fadeInUp" style="/*width:71%;float:right;*/"><img
                                             src="img/arts/19.jpg" style="width:100%;height:auto;"/></div>
                             </div>
                             <div class="col-md-4">
-                                <div class="overtheimgturk" style="/*width:71%;float:right;*/"><img
+                                <div class="overtheimgturk wow fadeInUp" style="/*width:71%;float:right;*/"><img
                                             src="img/arts/20.jpg" style="width:100%;height:auto;"/></div>
                             </div>
                         </div>
@@ -438,10 +392,12 @@
             <section class="bg_section">
                 <div class="row">
 
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft">
-                                <h2 class="h2 h2Turk">Celina Cebula</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk">
+                                <h2 class="h2 h2Turk">
+                                    <span>Poland</span>
+                                    Celina Cebula</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -453,58 +409,41 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="row therow2img animated wow fadeInUp">
+                        <div class="row therow2img ">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/21.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/21.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/22.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/22.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/23.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"/>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/23.jpg" style="width:100%;height:auto;"
+                                 class=""/>
                         </div>
                     </div>
-
-
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft" >
-                                Poland
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </section>
             <section>
                 <div class="row">
-                    <div class="col-md-2  text-center ">
-                        <div class="overtheimgturk">
-                            <div class="turk animated wow slideInLeft" >
-                                Kuwait
-                            </div>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/24.jpg" style="width:100%;height:auto;" class=" "
+                            />
                         </div>
                     </div>
-
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <img src="img/arts/24.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"
-                                />
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="overtheimgturk">
-                            <div class=" whiteTurk animated wow slideInLeft">
-                                <h2 class="h2 h2Turk">Farid Al-Ali</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk ">
+                                <h2 class="h2 h2Turk">
+                                    <span>Kuwait</span>
+                                    Farid Al-Ali</h2>
 
                                 <div class="hrTurk"></div>
 
@@ -522,15 +461,15 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="row therow2img animated wow fadeInUp" >
+                        <div class="row therow2img ">
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/25.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/25.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
-                                <div class="overtheimgturk"><img src="img/arts/26.jpg" style="width:100%;height:auto;"/>
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/26.jpg" style="width:100%;height:auto;"/>
                                 </div>
                             </div>
                         </div>
@@ -538,107 +477,95 @@
                 </div>
             </section>
             <section class="bg_section">
-            <div class="row">
+                <div class="row">
 
-                <div class="col-md-5">
-                    <div class="overtheimgturk">
-                        <div class=" whiteTurk animated wow slideInLeft" >
-                            <h2 class="h2 h2Turk">Mohammed Mandi</h2>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk">
+                                <h2 class="h2 h2Turk">
+                                    <span>U.A.E.</span>
+                                    Mohammed Mandi</h2>
 
-                            <div class="hrTurk"></div>
+                                <div class="hrTurk"></div>
 
-                            <p class="biographyTurk text-justify">
-                                With his unique experience and creative designs, he
-                                was nominated to design the Arabic calligraphy on the
-                                banknote and passports of U.A.E. and many other countries.
-                                In addition, he was nominated to supervise calligraphic
-                                designs in Shaikh Zayed Grand Mosque in Abu Dhabi, U.A.E.
-                                and many other mosques in the world.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="row therow2img animated wow fadeInUp" >
-
-                        <div class="col-md-6">
-                            <div class="overtheimgturk"><img src="img/arts/27.jpg" style="width:100%;height:auto;"/>
+                                <p class="biographyTurk text-justify">
+                                    With his unique experience and creative designs, he
+                                    was nominated to design the Arabic calligraphy on the
+                                    banknote and passports of U.A.E. and many other countries.
+                                    In addition, he was nominated to supervise calligraphic
+                                    designs in Shaikh Zayed Grand Mosque in Abu Dhabi, U.A.E.
+                                    and many other mosques in the world.
+                                </p>
                             </div>
                         </div>
+                        <div class="row therow2img animated">
 
-                        <div class="col-md-6">
-                            <div class="overtheimgturk"><img src="img/arts/28.jpg" style="width:100%;height:auto;"/>
+                            <div class="col-md-6">
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/27.jpg" style="width:100%;height:auto;"/>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/28.jpg" style="width:100%;height:auto;"/>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="col-md-5">
-                    <div class="overtheimgturk">
-                        <img src="img/arts/29.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"/>
-                    </div>
-                </div>
-
-
-                <div class="col-md-2  text-center ">
-                    <div class="overtheimgturk">
-                        <div class="turk animated wow slideInLeft">
-                            U.A.E.
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/29.jpg" style="width:100%;height:auto;"
+                                 class=""/>
                         </div>
                     </div>
                 </div>
-
-            </div>
             </section>
             <section>
-            <div class="row">
-                <div class="col-md-2  text-center ">
-                    <div class="overtheimgturk">
-                        <div class="turk animated wow slideInLeft">
-                            South Africa
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <img src="img/arts/30.jpg" style="width:100%;height:auto;"
+                                 class=""/>
                         </div>
                     </div>
-                </div>
+                    <div class="col-md-6">
+                        <div class="overtheimgturk wow fadeInUp">
+                            <div class=" whiteTurk">
+                                <h2 class="h2 h2Turk">
+                                    <span>South Africa</span>
+                                    Achmat Soni</h2>
 
-                <div class="col-md-5">
-                    <div class="overtheimgturk">
-                        <img src="img/arts/30.jpg" style="width:100%;height:auto;" class="animated wow slideInLeft"/>
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="overtheimgturk">
-                        <div class=" whiteTurk animated wow slideInLeft">
-                            <h2 class="h2 h2Turk">Achmat Soni</h2>
+                                <div class="hrTurk"></div>
 
-                            <div class="hrTurk"></div>
-
-                            <p class="biographyTurk text-justify">
-                                He is the founder of the South African Foundation of
-                                Islamic Art. In his works he succeeded in creating elements
-                                of harmony between the Arabic calligraphy and the African
-                                culture. He used Ndebele
-                                art which is an indigenous
-                                art form practiced by the
-                                African Ndebele tribe. It is
-                                characterized by its vibrant
-                                colors and geometric
-                                shapes.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="row therow2img animated wow fadeInUp">
-
-                        <div class="col-md-6">
-                            <div class="overtheimgturk"><img src="img/arts/31.jpg" style="width:100%;height:auto;"/>
+                                <p class="biographyTurk text-justify">
+                                    He is the founder of the South African Foundation of
+                                    Islamic Art. In his works he succeeded in creating elements
+                                    of harmony between the Arabic calligraphy and the African
+                                    culture. He used Ndebele
+                                    art which is an indigenous
+                                    art form practiced by the
+                                    African Ndebele tribe. It is
+                                    characterized by its vibrant
+                                    colors and geometric
+                                    shapes.
+                                </p>
                             </div>
                         </div>
+                        <div class="row therow2img">
 
-                        <div class="col-md-6">
-                            <div class="overtheimgturk"><img src="img/arts/32.jpg" style="width:100%;height:auto;"/>
+                            <div class="col-md-6">
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/31.jpg" style="width:100%;height:auto;"/>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/32.jpg" style="width:100%;height:auto;"/>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
             </section>
         </div>
     </div>

@@ -305,29 +305,29 @@
     }
 }
 /* Some Cool Stuff */
-.demo-card:nth-child(1) {
-    order: 1;
-}
+/*.demo-card:nth-child(1) {*/
+    /*order: 1;*/
+/*}*/
 
-.demo-card:nth-child(2) {
-    order: 4;
-}
+/*.demo-card:nth-child(2) {*/
+    /*order: 4;*/
+/*}*/
 
-.demo-card:nth-child(3) {
-    order: 2;
-}
+/*.demo-card:nth-child(3) {*/
+    /*order: 2;*/
+/*}*/
 
-.demo-card:nth-child(4) {
-    order: 5;
-}
+/*.demo-card:nth-child(4) {*/
+    /*order: 5;*/
+/*}*/
 
-.demo-card:nth-child(5) {
-    order: 3;
-}
+/*.demo-card:nth-child(5) {*/
+    /*order: 3;*/
+/*}*/
 
-.demo-card:nth-child(6) {
-    order: 6;
-}
+/*.demo-card:nth-child(6) {*/
+    /*order: 6;*/
+/*}*/
 
 /* Border Box */
 * {
@@ -340,10 +340,7 @@ body {
 }
 
 #timeline {
-    padding: 100px 0;
     background: #f7f7f7;
-    border-top: 1px solid rgba(191, 191, 191, 0.4);
-    border-bottom: 1px solid rgba(191, 191, 191, 0.4);
 }
 #timeline h1 {
     text-align: center;
@@ -363,10 +360,7 @@ body {
 }
 @media (min-width: 1000px) {
     #timeline .demo-card-wrapper {
-        display: flex;
-        flex-flow: column wrap;
-        width: 1170px;
-        height: 1650px;
+        display: block;
         margin: 0 auto;
     }
 }
@@ -399,19 +393,20 @@ body {
 }
 @media (min-width: 720px) {
     #timeline .demo-card {
-        max-width: 40%;
+        max-width: 42%;
     }
 }
 @media (min-width: 1000px) {
     #timeline .demo-card {
-        max-width: 450px;
+        width: 42%;
         height: 400px;
-        margin: 90px;
+        margin: 6%;
+        float: left;
         margin-top: 45px;
         margin-bottom: 45px;
     }
     #timeline .demo-card:nth-child(odd) {
-        margin-right: 45px;
+        margin-right: 0px;
     }
     #timeline .demo-card:nth-child(odd) .head::after {
         border-left-width: 15px;
@@ -419,10 +414,11 @@ body {
         left: 100%;
     }
     #timeline .demo-card:nth-child(odd) .head::before {
-        left: 491.5px;
+        right: calc(-5% + -3px );
     }
     #timeline .demo-card:nth-child(even) {
-        margin-left: 45px;
+        margin-left: 0px;
+        float: right;
     }
     #timeline .demo-card:nth-child(even) .head::after {
         border-right-width: 15px;
@@ -430,7 +426,7 @@ body {
         right: 100%;
     }
     #timeline .demo-card:nth-child(even) .head::before {
-        right: 489.5px;
+        left: calc(-5% + -2px);
     }
     #timeline .demo-card:nth-child(2) {
         margin-top: 180px;
@@ -457,10 +453,17 @@ body {
     text-transform: uppercase;
     font-size: 1.3rem;
     font-weight: inherit;
+    font-family: EsmeraldaPro !important;
+    font-style: normal;
     letter-spacing: 2px;
     margin: 0;
     padding-bottom: 6px;
     line-height: 1rem;
+}
+.heading-left h2,
+.h2Turk{
+    font-family: EsmeraldaPro !important;
+        margin-top: 0;
 }
 @media (min-width: 480px) {
     #timeline .demo-card .head h2 {
@@ -484,47 +487,24 @@ body {
     border-top: 0;
     padding: 15px;
 }
-@media (min-width: 1000px) {
-    #timeline .demo-card .body {
-        height: 315px;
-    }
-}
+/*@media (min-width: 1000px) {*/
+    /*#timeline .demo-card .body {*/
+        /*height: 315px;*/
+    /*}*/
+/*}*/
 #timeline .demo-card .body p {
     font-size: 14px;
     line-height: 18px;
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 #timeline .demo-card .body img {
     display: block;
     width: 100%;
 }
-#timeline .demo-card--step1 {
-    background-color: #46b8e9;
+#timeline .demo-card {
+    background-color: #02224f;
 }
-#timeline .demo-card--step1 .head::after {
-    border-color: #46b8e9;
-}
-#timeline .demo-card--step2 {
-    background-color: #3ee9d1;
-}
-#timeline .demo-card--step2 .head::after {
-    border-color: #3ee9d1;
-}
-#timeline .demo-card--step3 {
-    background-color: #ce43eb;
-}
-#timeline .demo-card--step3 .head::after {
-    border-color: #ce43eb;
-}
-#timeline .demo-card--step4 {
-    background-color: #4d92eb;
-}
-#timeline .demo-card--step4 .head::after {
-    border-color: #4d92eb;
-}
-#timeline .demo-card--step5 {
-    background-color: #46b8e9;
-}
-#timeline .demo-card--step5 .head::after {
-    border-color: #46b8e9;
+#timeline .demo-card .head::after {
+    border-color: #02224f;
 }

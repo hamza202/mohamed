@@ -69,77 +69,91 @@
                                 __idm_frm__="545"></object>
                         </span></div>
         </div>
-        <section id=timeline>
-            <h1>A Flexbox Timeline</h1>
-            <p class="leader">All cards must be the same height and width for space calculations on large screens.</p>
-            <div class="demo-card-wrapper">
-                <div class="demo-card demo-card--step1">
+        <div id=timeline>
+             <div class="demo-card-wrapper">
+                <div class="demo-card wow fadeInUp">
                     <div class="head">
                         <div class="number-box">
                             <span>01</span>
                         </div>
-                        <h2><span class="small">Subtitle</span> Technology</h2>
+                        <h2>Technology</h2>
                     </div>
                     <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                         <img src="http://placehold.it/1000x500" alt="Graphic">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                     </div>
                 </div>
 
-                <div class="demo-card demo-card--step2">
+                <div class="demo-card wow fadeInUp">
                     <div class="head">
                         <div class="number-box">
                             <span>02</span>
                         </div>
-                        <h2><span class="small">Subtitle</span> Confidence</h2>
+                        <h2> Confidence</h2>
                     </div>
                     <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                         <img src="http://placehold.it/1000x500" alt="Graphic">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+
                     </div>
                 </div>
 
-                <div class="demo-card demo-card--step3">
+                <div class="demo-card wow fadeInUp">
                     <div class="head">
                         <div class="number-box">
                             <span>03</span>
                         </div>
-                        <h2><span class="small">Subtitle</span> Adaptation</h2>
+                        <h2>Adaptation</h2>
                     </div>
                     <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                         <img src="http://placehold.it/1000x500" alt="Graphic">
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                     </div>
                 </div>
 
-                <div class="demo-card demo-card--step4">
+                <div class="demo-card wow fadeInUp">
                     <div class="head">
                         <div class="number-box">
                             <span>04</span>
                         </div>
-                        <h2><span class="small">Subtitle</span> Consistency</h2>
+                        <h2>Consistency</h2>
                     </div>
                     <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                         <img src="http://placehold.it/1000x500" alt="Graphic">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+
                     </div>
                 </div>
 
-                <div class="demo-card demo-card--step5">
+                <div class="demo-card wow fadeInUp">
                     <div class="head">
                         <div class="number-box">
                             <span>05</span>
                         </div>
-                        <h2><span class="small">Subtitle</span> Conversion</h2>
+                        <h2>Conversion</h2>
                     </div>
                     <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                         <img src="http://placehold.it/1000x500" alt="Graphic">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
                     </div>
                 </div>
 
+                 <div class="demo-card wow fadeInUp">
+                     <div class="head">
+                         <div class="number-box">
+                             <span>05</span>
+                         </div>
+                         <h2> Conversion</h2>
+                     </div>
+                     <div class="body">
+                         <img src="http://placehold.it/1000x500" alt="Graphic">
+                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                     </div>
+                 </div>
+
             </div>
-        </section>
+        </div>
 <!--        <div class="container time-line clearfix">-->
 <!--            <div class="vline"></div>-->
 <!--            <div class="row large">-->
@@ -400,69 +414,12 @@
     </div>
 
     <?php include('footer.php') ?>
-    <script>
-        $(document).ready(function () {
-            var $win = $(window);
-            var $rows = $('.row');
-            var $line = $('.vline');
-            var op = 0;
 
-            $win.on('scroll', function () {
-                var top = $(this).scrollTop();
-                $line.height(top + 400);
-
-                $rows.each(function () {
-
-                    if (top > $(this).offset().top - $win.height()) {
-                        var offset = Math.min(0, top - $(this).offset().top + $win.height() - 400);
-
-                        $(this).find('.left').css({transform: 'translate( ' + offset + 'px, 0px)'});
-                        $(this).find('.right').css({transform: 'translate( ' + Math.abs(offset) + 'px, 0px)'});
-
-                        var off = $(this).offset().top;
-                        var height = 350; //$(this).height();
-                        off = off + height;
-
-                        op = Math.min(1, (top - off + 1100) / 800);
-
-                        $(this).find('.date').css({opacity: (op)});
-                    }
-                });
-            });
-            $(window).trigger('scroll');
-        });
-        $(document).ready(function () {
-            var $win = $(window);
-            var $rows = $('.row');
-            var $line = $('.vline');
-            var op = 0;
-
-            $win.on('scroll', function () {
-                var top = $(this).scrollTop();
-                $line.height(top + 400);
-
-                $rows.each(function () {
-
-                    if (top > $(this).offset().top - $win.height()) {
-                        var offset = Math.min(0, top - $(this).offset().top + $win.height() - 400);
-
-                        $(this).find('.left').css({transform: 'translate( ' + offset + 'px, 0px)'});
-                        $(this).find('.right').css({transform: 'translate( ' + Math.abs(offset) + 'px, 0px)'});
-
-                        var off = $(this).offset().top;
-                        var height = 350; //$(this).height();
-                        off = off + height;
-
-                        op = Math.min(1, (top - off + 1100) / 800);
-
-                        $(this).find('.date').css({opacity: (op)});
-                    }
-                });
-            });
-            $(window).trigger('scroll');
-        });
-    </script>
     <script type="text/javascript" src='js/functions.js'></script>
+    <script>
+        var setHeight = $(".testimonials-section").height();
+        $(".demo-card-wrapper").height(setHeight - 300);
+    </script>
     <script src='js/wow.js'></script>
     <script src='js/main.js'></script>
     <script src='js/customerBio.js'></script>
