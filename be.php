@@ -95,17 +95,32 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="row therow2img animated wow fadeInUp">
+                        <div class="row therow2img ">
 
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/1.jpg" style="width:100%;height:auto;"/>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/2.jpg" style="width:100%;height:auto;"/>
-                                </div>
-                            </div>
+                           <div class=" col-md-12 animated wow fadeInUp">
+                               <div class="imageGallery-wrap ">
+                                   <ul class="imageGallery">
+                                       <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                           <img src="img/arts/7.jpg" />
+                                       </li>
+                                       <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                           <img src="img/arts/7.jpg" />
+                                       </li>
+                                       <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                           <img src="img/arts/7.jpg" />
+                                       </li>
+                                       <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                           <img src="img/arts/7.jpg" />
+                                       </li>
+                                       <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                           <img src="img/arts/7.jpg" />
+                                       </li>
+                                       <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                           <img src="img/arts/7.jpg" />
+                                       </li>
+                                   </ul>
+                               </div>
+                           </div>
                         </div>
                     </div>
 
@@ -155,14 +170,28 @@
                             </div>
                         </div>
                         <div class="row therow2img  ">
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/5.jpg" style="width:100%;height:auto;"/>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk  wow fadeInUp"><img src="img/arts/6.jpg" style="width:100%;height:auto;"/>
+                            <div class=" col-md-12 animated wow fadeInUp">
+                                <div class="imageGallery-wrap ">
+                                    <ul class="imageGallery">
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -202,14 +231,28 @@
 
                         </div>
                         <div class="row therow2img ">
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/7.jpg" style="width:100%;height:auto;"/>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/8.jpg" style="width:100%;height:auto;"/>
+                            <div class=" col-md-12 animated wow fadeInUp">
+                                <div class="imageGallery-wrap ">
+                                    <ul class="imageGallery">
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -256,14 +299,28 @@
                             </div>
                         </div>
                         <div class="row therow2img animated wow fadeInUp">
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/11.jpg" style="width:100%;height:auto;"/>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/12.jpg" style="width:100%;height:auto;"/>
+                            <div class=" col-md-12 animated wow fadeInUp">
+                                <div class="imageGallery-wrap ">
+                                    <ul class="imageGallery">
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -302,14 +359,28 @@
                             </div>
                         </div>
                         <div class="row therow2img animated ">
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/13.jpg" style="width:100%;height:auto;"/>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="overtheimgturk wow fadeInUp"><img src="img/arts/14.jpg" style="width:100%;height:auto;"/>
+                            <div class=" col-md-12 animated wow fadeInUp">
+                                <div class="imageGallery-wrap ">
+                                    <ul class="imageGallery">
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                        <li data-thumb="img/arts/7.jpg" data-src="img/arts/7.jpg">
+                                            <img src="img/arts/7.jpg" />
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -570,7 +641,48 @@
         </div>
     </div>
     <?php include('footer.php') ?>
-    <script type="text/javascript" src='js/functions.js'></script>
+    <script type="text/javascript" src="js/lightslider.min.js"></script>
+    <script type="text/javascript" src="js/lightgallery-all.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.imageGallery').lightSlider({
+                gallery: false,
+                item: 2,
+                loop: false,
+                enableDrag: false,
+                slideMargin:20,
+                responsive: [
+                    {
+                        breakpoint: 1000,
+                        settings: {
+                            item: 2,
+                            slideMove: 1,
+                        }
+                    },
+                    {
+                        breakpoint: 800,
+                        settings: {
+                            item: 2,
+                            slideMove: 1,
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            item: 1,
+                            slideMove: 1
+                        }
+                    }
+                ],
+                onSliderLoad: function(el) {
+                    el.lightGallery({
+                        selector: '.imageGallery .lslide'
+                    });
+                }
+            });
+        });
+        </script>
+        <script type="text/javascript" src='js/functions.js'></script>
 
 </body>
 

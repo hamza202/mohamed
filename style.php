@@ -6,6 +6,8 @@
 
     <link rel="icon" href="img/favicon.png" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="./css/MyFontsWebfontsKit.css">
+    <link rel="stylesheet" type="text/css" href="css/lightgallery.css">
+    <link rel="stylesheet" href="css/lightslider.css">
     <link rel="stylesheet" type="text/css" href="./css/animate.css">
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="./css/owl.carousel.css">

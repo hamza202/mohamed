@@ -508,3 +508,6 @@ body {
 #timeline .demo-card .head::after {
     border-color: #02224f;
 }
+.testimonials-section section:last-child{
+    display: block !important;
+}
