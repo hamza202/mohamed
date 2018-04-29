@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9716b0-750d-46aa-a6bb-3b7e43ddfe66" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/be.php" afterPath="$PROJECT_DIR$/be.php" />
-      <change beforePath="$PROJECT_DIR$/css/news-style.css" afterPath="$PROJECT_DIR$/css/news-style.css" />
-      <change beforePath="$PROJECT_DIR$/style.php" afterPath="$PROJECT_DIR$/style.php" />
-    </list>
+    <list default="true" id="7b9716b0-750d-46aa-a6bb-3b7e43ddfe66" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
